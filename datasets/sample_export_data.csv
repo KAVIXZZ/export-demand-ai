@@ -1,0 +1,1775 @@
+date,region,product,quantity,price
+2025-12-08,North America,Electronics,114,775.87
+2025-12-08,Europe,Agricultural Produce,107,144.79
+2025-12-08,Europe,Electronics,107,870.72
+2025-12-08,Europe,Industrial Machinery,126,4694.41
+2025-12-08,Asia Pacific,Electronics,134,802.77
+2025-12-08,Asia Pacific,Industrial Machinery,117,5386.51
+2025-12-08,Asia Pacific,Textiles,111,371.46
+2025-12-08,Latin America,Electronics,106,738.94
+2025-12-08,Middle East,Electronics,132,736.39
+2025-12-08,Middle East,Chemicals,116,1259.24
+2025-12-09,North America,Industrial Machinery,128,5262.27
+2025-12-09,North America,Textiles,113,382.26
+2025-12-09,North America,Chemicals,120,1279.26
+2025-12-09,Europe,Electronics,120,751.89
+2025-12-09,Europe,Industrial Machinery,133,5130.03
+2025-12-09,Asia Pacific,Electronics,122,805.55
+2025-12-09,Asia Pacific,Agricultural Produce,131,156.64
+2025-12-09,Latin America,Textiles,133,371.0
+2025-12-09,Latin America,Electronics,133,735.06
+2025-12-09,Middle East,Industrial Machinery,131,5274.94
+2025-12-09,Middle East,Textiles,114,370.2
+2025-12-09,Middle East,Electronics,105,791.61
+2025-12-10,North America,Agricultural Produce,131,163.5
+2025-12-10,North America,Electronics,110,837.71
+2025-12-10,North America,Chemicals,119,1143.65
+2025-12-10,Europe,Chemicals,122,1295.27
+2025-12-10,Europe,Electronics,130,736.29
+2025-12-10,Asia Pacific,Electronics,133,789.81
+2025-12-10,Asia Pacific,Chemicals,130,1314.61
+2025-12-10,Latin America,Industrial Machinery,135,4742.75
+2025-12-10,Middle East,Textiles,123,354.76
+2025-12-11,North America,Textiles,122,356.87
+2025-12-11,North America,Chemicals,130,1303.0
+2025-12-11,North America,Agricultural Produce,128,135.22
+2025-12-11,Europe,Agricultural Produce,135,163.36
+2025-12-11,Europe,Textiles,125,334.66
+2025-12-11,Europe,Industrial Machinery,116,5457.5
+2025-12-11,Asia Pacific,Electronics,127,789.91
+2025-12-11,Asia Pacific,Chemicals,119,1202.32
+2025-12-11,Latin America,Textiles,120,350.04
+2025-12-11,Latin America,Agricultural Produce,125,145.48
+2025-12-11,Latin America,Electronics,135,771.64
+2025-12-11,Middle East,Industrial Machinery,135,5125.91
+2025-12-12,North America,Electronics,117,763.27
+2025-12-12,Europe,Electronics,131,841.07
+2025-12-12,Europe,Chemicals,108,1089.49
+2025-12-12,Europe,Industrial Machinery,114,5436.95
+2025-12-12,Asia Pacific,Electronics,127,871.18
+2025-12-12,Latin America,Electronics,126,870.54
+2025-12-12,Middle East,Agricultural Produce,125,149.15
+2025-12-12,Middle East,Industrial Machinery,135,4641.16
+2025-12-13,North America,Industrial Machinery,62,5372.47
+2025-12-13,North America,Agricultural Produce,79,164.15
+2025-12-13,North America,Textiles,61,365.89
+2025-12-13,Europe,Textiles,75,383.1
+2025-12-13,Asia Pacific,Electronics,66,817.65
+2025-12-13,Asia Pacific,Chemicals,84,1285.27
+2025-12-13,Latin America,Agricultural Produce,76,163.53
+2025-12-13,Middle East,Industrial Machinery,58,5480.2
+2025-12-13,Middle East,Electronics,84,726.43
+2025-12-13,Middle East,Agricultural Produce,85,144.2
+2025-12-14,North America,Industrial Machinery,75,5010.91
+2025-12-14,Europe,Industrial Machinery,75,5470.1
+2025-12-14,Asia Pacific,Industrial Machinery,80,4551.22
+2025-12-14,Asia Pacific,Textiles,58,360.66
+2025-12-14,Latin America,Agricultural Produce,77,161.13
+2025-12-14,Latin America,Electronics,78,722.96
+2025-12-14,Latin America,Industrial Machinery,80,4809.41
+2025-12-14,Middle East,Textiles,84,376.19
+2025-12-14,Middle East,Agricultural Produce,77,150.02
+2025-12-14,Middle East,Chemicals,73,1275.19
+2025-12-15,North America,Electronics,129,863.79
+2025-12-15,Europe,Industrial Machinery,110,4644.34
+2025-12-15,Asia Pacific,Chemicals,114,1104.67
+2025-12-15,Asia Pacific,Agricultural Produce,138,153.24
+2025-12-15,Asia Pacific,Electronics,108,780.11
+2025-12-15,Latin America,Chemicals,134,1264.96
+2025-12-15,Middle East,Textiles,138,362.42
+2025-12-16,North America,Industrial Machinery,109,5422.34
+2025-12-16,North America,Agricultural Produce,133,157.45
+2025-12-16,North America,Textiles,129,341.0
+2025-12-16,Europe,Industrial Machinery,122,5350.74
+2025-12-16,Europe,Chemicals,113,1312.27
+2025-12-16,Asia Pacific,Industrial Machinery,124,4583.54
+2025-12-16,Asia Pacific,Agricultural Produce,114,147.67
+2025-12-16,Latin America,Agricultural Produce,120,158.8
+2025-12-16,Middle East,Electronics,128,832.06
+2025-12-17,North America,Industrial Machinery,137,4805.65
+2025-12-17,North America,Electronics,115,860.48
+2025-12-17,Europe,Chemicals,109,1197.11
+2025-12-17,Europe,Industrial Machinery,115,5487.76
+2025-12-17,Europe,Textiles,129,380.41
+2025-12-17,Asia Pacific,Industrial Machinery,130,5051.4
+2025-12-17,Asia Pacific,Electronics,119,798.28
+2025-12-17,Asia Pacific,Textiles,135,348.94
+2025-12-17,Latin America,Industrial Machinery,137,4769.27
+2025-12-17,Middle East,Textiles,118,327.19
+2025-12-17,Middle East,Electronics,133,875.57
+2025-12-17,Middle East,Industrial Machinery,134,4939.15
+2025-12-18,North America,Chemicals,110,1161.3
+2025-12-18,North America,Electronics,136,774.74
+2025-12-18,North America,Textiles,119,328.02
+2025-12-18,Europe,Chemicals,124,1290.07
+2025-12-18,Europe,Agricultural Produce,114,163.26
+2025-12-18,Europe,Industrial Machinery,111,4657.05
+2025-12-18,Asia Pacific,Textiles,121,366.63
+2025-12-18,Asia Pacific,Agricultural Produce,111,159.46
+2025-12-18,Latin America,Chemicals,135,1240.95
+2025-12-18,Latin America,Textiles,124,357.18
+2025-12-18,Middle East,Electronics,112,766.68
+2025-12-18,Middle East,Industrial Machinery,124,4654.81
+2025-12-18,Middle East,Textiles,134,326.14
+2025-12-19,North America,Industrial Machinery,110,5449.55
+2025-12-19,North America,Agricultural Produce,122,159.79
+2025-12-19,Europe,Textiles,111,375.92
+2025-12-19,Europe,Industrial Machinery,131,4874.68
+2025-12-19,Europe,Electronics,112,832.81
+2025-12-19,Asia Pacific,Textiles,137,377.79
+2025-12-19,Asia Pacific,Chemicals,113,1272.73
+2025-12-19,Asia Pacific,Electronics,114,770.69
+2025-12-19,Latin America,Textiles,124,383.46
+2025-12-19,Latin America,Electronics,124,725.84
+2025-12-19,Latin America,Industrial Machinery,114,4592.44
+2025-12-19,Middle East,Industrial Machinery,112,5078.48
+2025-12-19,Middle East,Agricultural Produce,130,155.25
+2025-12-20,North America,Textiles,88,344.6
+2025-12-20,Europe,Chemicals,78,1302.92
+2025-12-20,Europe,Agricultural Produce,77,150.54
+2025-12-20,Europe,Textiles,82,348.58
+2025-12-20,Asia Pacific,Industrial Machinery,80,4862.22
+2025-12-20,Asia Pacific,Textiles,61,347.6
+2025-12-20,Asia Pacific,Electronics,74,786.34
+2025-12-20,Latin America,Chemicals,84,1199.82
+2025-12-20,Latin America,Agricultural Produce,71,135.93
+2025-12-20,Latin America,Industrial Machinery,75,4921.05
+2025-12-20,Middle East,Chemicals,68,1263.9
+2025-12-20,Middle East,Electronics,91,819.56
+2025-12-20,Middle East,Textiles,91,349.59
+2025-12-21,North America,Textiles,72,378.05
+2025-12-21,North America,Industrial Machinery,74,4565.68
+2025-12-21,North America,Electronics,85,860.75
+2025-12-21,Europe,Chemicals,77,1243.29
+2025-12-21,Asia Pacific,Agricultural Produce,62,137.36
+2025-12-21,Latin America,Agricultural Produce,79,152.05
+2025-12-21,Latin America,Electronics,76,727.82
+2025-12-21,Latin America,Industrial Machinery,85,5297.24
+2025-12-21,Middle East,Industrial Machinery,62,5240.9
+2025-12-22,North America,Electronics,118,852.82
+2025-12-22,North America,Textiles,136,379.3
+2025-12-22,North America,Agricultural Produce,119,141.97
+2025-12-22,Europe,Industrial Machinery,141,5441.71
+2025-12-22,Europe,Chemicals,119,1308.22
+2025-12-22,Asia Pacific,Chemicals,130,1181.77
+2025-12-22,Latin America,Textiles,112,382.29
+2025-12-22,Latin America,Electronics,138,857.97
+2025-12-22,Middle East,Chemicals,119,1128.63
+2025-12-22,Middle East,Textiles,123,372.79
+2025-12-23,North America,Textiles,131,379.85
+2025-12-23,Europe,Chemicals,112,1118.33
+2025-12-23,Asia Pacific,Electronics,113,767.09
+2025-12-23,Asia Pacific,Agricultural Produce,137,161.5
+2025-12-23,Asia Pacific,Textiles,118,367.21
+2025-12-23,Latin America,Industrial Machinery,122,4963.51
+2025-12-23,Latin America,Textiles,141,372.89
+2025-12-23,Latin America,Agricultural Produce,120,149.39
+2025-12-23,Middle East,Electronics,113,728.07
+2025-12-24,North America,Agricultural Produce,116,144.78
+2025-12-24,Europe,Chemicals,133,1136.94
+2025-12-24,Europe,Electronics,126,788.17
+2025-12-24,Europe,Industrial Machinery,122,5176.81
+2025-12-24,Asia Pacific,Electronics,119,746.45
+2025-12-24,Asia Pacific,Industrial Machinery,138,4914.69
+2025-12-24,Asia Pacific,Chemicals,135,1108.23
+2025-12-24,Latin America,Industrial Machinery,134,4773.94
+2025-12-24,Middle East,Agricultural Produce,123,163.38
+2025-12-24,Middle East,Electronics,116,864.9
+2025-12-25,North America,Agricultural Produce,138,140.51
+2025-12-25,North America,Electronics,130,843.33
+2025-12-25,North America,Textiles,127,372.37
+2025-12-25,Europe,Textiles,122,350.08
+2025-12-25,Asia Pacific,Textiles,131,365.87
+2025-12-25,Latin America,Industrial Machinery,140,4681.06
+2025-12-25,Latin America,Chemicals,124,1246.03
+2025-12-25,Latin America,Agricultural Produce,136,135.0
+2025-12-25,Middle East,Electronics,143,727.0
+2025-12-25,Middle East,Chemicals,113,1109.01
+2025-12-25,Middle East,Industrial Machinery,122,4612.04
+2025-12-26,North America,Chemicals,142,1107.54
+2025-12-26,North America,Industrial Machinery,133,4812.09
+2025-12-26,North America,Electronics,138,789.81
+2025-12-26,Europe,Textiles,136,374.09
+2025-12-26,Europe,Electronics,116,734.47
+2025-12-26,Asia Pacific,Electronics,117,854.33
+2025-12-26,Asia Pacific,Industrial Machinery,139,4832.56
+2025-12-26,Asia Pacific,Textiles,138,382.96
+2025-12-26,Latin America,Chemicals,118,1114.85
+2025-12-26,Middle East,Chemicals,132,1196.54
+2025-12-26,Middle East,Textiles,132,364.99
+2025-12-26,Middle East,Electronics,140,736.02
+2025-12-27,North America,Chemicals,66,1136.36
+2025-12-27,North America,Agricultural Produce,80,145.2
+2025-12-27,Europe,Textiles,66,359.0
+2025-12-27,Europe,Industrial Machinery,75,5020.05
+2025-12-27,Asia Pacific,Agricultural Produce,82,144.82
+2025-12-27,Asia Pacific,Chemicals,70,1216.23
+2025-12-27,Latin America,Industrial Machinery,79,5363.82
+2025-12-27,Latin America,Textiles,76,330.36
+2025-12-27,Latin America,Electronics,94,744.95
+2025-12-27,Middle East,Chemicals,64,1252.49
+2025-12-27,Middle East,Industrial Machinery,90,5190.28
+2025-12-27,Middle East,Agricultural Produce,76,156.8
+2025-12-28,North America,Chemicals,78,1220.56
+2025-12-28,North America,Textiles,69,381.63
+2025-12-28,Europe,Industrial Machinery,82,5263.99
+2025-12-28,Europe,Textiles,69,335.99
+2025-12-28,Asia Pacific,Textiles,83,376.04
+2025-12-28,Latin America,Industrial Machinery,89,4922.66
+2025-12-28,Middle East,Agricultural Produce,79,143.54
+2025-12-29,North America,Agricultural Produce,133,148.57
+2025-12-29,Europe,Industrial Machinery,124,4660.22
+2025-12-29,Asia Pacific,Agricultural Produce,133,152.1
+2025-12-29,Asia Pacific,Chemicals,133,1288.39
+2025-12-29,Latin America,Agricultural Produce,141,143.47
+2025-12-29,Latin America,Textiles,129,333.95
+2025-12-29,Latin America,Electronics,117,759.81
+2025-12-29,Middle East,Agricultural Produce,145,155.98
+2025-12-29,Middle East,Textiles,124,320.97
+2025-12-30,North America,Electronics,139,843.06
+2025-12-30,North America,Textiles,126,344.07
+2025-12-30,North America,Industrial Machinery,126,4749.2
+2025-12-30,Europe,Textiles,136,353.93
+2025-12-30,Asia Pacific,Agricultural Produce,145,138.92
+2025-12-30,Asia Pacific,Textiles,138,317.37
+2025-12-30,Asia Pacific,Electronics,139,866.88
+2025-12-30,Latin America,Industrial Machinery,134,4893.43
+2025-12-30,Latin America,Chemicals,123,1262.44
+2025-12-30,Latin America,Electronics,138,781.6
+2025-12-30,Middle East,Chemicals,143,1136.09
+2025-12-31,North America,Agricultural Produce,134,152.48
+2025-12-31,North America,Textiles,139,315.57
+2025-12-31,Europe,Textiles,137,333.87
+2025-12-31,Europe,Industrial Machinery,119,5446.46
+2025-12-31,Europe,Agricultural Produce,145,149.9
+2025-12-31,Asia Pacific,Agricultural Produce,122,163.76
+2025-12-31,Asia Pacific,Industrial Machinery,138,4540.62
+2025-12-31,Asia Pacific,Chemicals,127,1103.71
+2025-12-31,Latin America,Agricultural Produce,122,146.23
+2025-12-31,Middle East,Industrial Machinery,135,5057.06
+2026-01-01,North America,Agricultural Produce,126,162.03
+2026-01-01,Europe,Agricultural Produce,132,138.34
+2026-01-01,Asia Pacific,Industrial Machinery,122,5220.33
+2026-01-01,Asia Pacific,Chemicals,130,1149.79
+2026-01-01,Latin America,Electronics,128,737.84
+2026-01-01,Middle East,Chemicals,135,1086.66
+2026-01-01,Middle East,Industrial Machinery,119,4642.73
+2026-01-02,North America,Textiles,119,376.1
+2026-01-02,North America,Chemicals,139,1151.92
+2026-01-02,North America,Industrial Machinery,140,4916.8
+2026-01-02,Europe,Textiles,118,319.19
+2026-01-02,Europe,Electronics,139,780.98
+2026-01-02,Europe,Chemicals,121,1223.77
+2026-01-02,Asia Pacific,Electronics,147,853.7
+2026-01-02,Latin America,Chemicals,130,1100.29
+2026-01-02,Middle East,Textiles,147,350.02
+2026-01-03,North America,Agricultural Produce,75,135.18
+2026-01-03,North America,Textiles,87,369.42
+2026-01-03,Europe,Textiles,98,342.42
+2026-01-03,Asia Pacific,Chemicals,70,1145.55
+2026-01-03,Latin America,Agricultural Produce,79,147.16
+2026-01-03,Middle East,Electronics,78,877.03
+2026-01-03,Middle East,Chemicals,85,1304.8
+2026-01-04,North America,Chemicals,74,1232.23
+2026-01-04,North America,Agricultural Produce,85,145.25
+2026-01-04,Europe,Agricultural Produce,95,148.12
+2026-01-04,Europe,Textiles,74,344.21
+2026-01-04,Asia Pacific,Textiles,95,339.64
+2026-01-04,Latin America,Textiles,92,331.15
+2026-01-04,Latin America,Chemicals,97,1302.41
+2026-01-04,Latin America,Agricultural Produce,68,141.11
+2026-01-04,Middle East,Electronics,97,832.38
+2026-01-05,North America,Industrial Machinery,132,4677.83
+2026-01-05,North America,Electronics,145,808.26
+2026-01-05,North America,Agricultural Produce,120,161.75
+2026-01-05,Europe,Agricultural Produce,129,144.63
+2026-01-05,Europe,Industrial Machinery,129,5223.41
+2026-01-05,Europe,Electronics,130,733.42
+2026-01-05,Asia Pacific,Textiles,146,383.77
+2026-01-05,Asia Pacific,Industrial Machinery,130,4551.55
+2026-01-05,Latin America,Industrial Machinery,134,4574.46
+2026-01-05,Latin America,Textiles,146,368.57
+2026-01-05,Middle East,Textiles,146,320.04
+2026-01-05,Middle East,Industrial Machinery,131,5273.8
+2026-01-06,North America,Industrial Machinery,121,4611.55
+2026-01-06,North America,Agricultural Produce,140,142.68
+2026-01-06,Europe,Textiles,120,379.52
+2026-01-06,Europe,Agricultural Produce,137,148.16
+2026-01-06,Europe,Electronics,129,859.5
+2026-01-06,Asia Pacific,Textiles,119,329.89
+2026-01-06,Asia Pacific,Industrial Machinery,131,4548.56
+2026-01-06,Asia Pacific,Agricultural Produce,128,146.48
+2026-01-06,Latin America,Textiles,125,381.79
+2026-01-06,Latin America,Agricultural Produce,134,160.74
+2026-01-06,Latin America,Chemicals,138,1281.15
+2026-01-06,Middle East,Chemicals,146,1300.18
+2026-01-06,Middle East,Agricultural Produce,128,153.39
+2026-01-06,Middle East,Textiles,131,348.77
+2026-01-07,North America,Electronics,136,722.95
+2026-01-07,North America,Industrial Machinery,126,5012.6
+2026-01-07,North America,Chemicals,123,1135.95
+2026-01-07,Europe,Textiles,134,351.05
+2026-01-07,Europe,Electronics,138,837.34
+2026-01-07,Europe,Chemicals,138,1181.1
+2026-01-07,Asia Pacific,Industrial Machinery,146,4733.26
+2026-01-07,Asia Pacific,Electronics,120,821.86
+2026-01-07,Latin America,Textiles,145,367.33
+2026-01-07,Latin America,Industrial Machinery,120,4926.57
+2026-01-07,Latin America,Electronics,128,726.67
+2026-01-07,Middle East,Industrial Machinery,135,5257.39
+2026-01-08,North America,Textiles,123,376.24
+2026-01-08,North America,Chemicals,123,1120.48
+2026-01-08,North America,Electronics,121,734.67
+2026-01-08,Europe,Electronics,138,785.36
+2026-01-08,Asia Pacific,Electronics,129,723.25
+2026-01-08,Asia Pacific,Agricultural Produce,141,140.66
+2026-01-08,Latin America,Textiles,128,359.84
+2026-01-08,Latin America,Electronics,138,803.56
+2026-01-08,Latin America,Chemicals,131,1199.99
+2026-01-08,Middle East,Electronics,136,799.92
+2026-01-08,Middle East,Chemicals,149,1164.53
+2026-01-08,Middle East,Agricultural Produce,149,146.07
+2026-01-09,North America,Industrial Machinery,130,4755.19
+2026-01-09,Europe,Industrial Machinery,131,5298.17
+2026-01-09,Asia Pacific,Agricultural Produce,144,145.53
+2026-01-09,Latin America,Electronics,124,809.96
+2026-01-09,Latin America,Industrial Machinery,121,4925.28
+2026-01-09,Latin America,Textiles,145,325.58
+2026-01-09,Middle East,Industrial Machinery,138,5325.15
+2026-01-09,Middle East,Electronics,125,761.05
+2026-01-09,Middle East,Textiles,121,375.3
+2026-01-10,North America,Electronics,89,780.87
+2026-01-10,North America,Agricultural Produce,90,161.84
+2026-01-10,Europe,Chemicals,100,1308.58
+2026-01-10,Europe,Industrial Machinery,101,5449.72
+2026-01-10,Asia Pacific,Industrial Machinery,79,4944.46
+2026-01-10,Asia Pacific,Chemicals,74,1116.43
+2026-01-10,Latin America,Agricultural Produce,96,159.82
+2026-01-10,Latin America,Electronics,74,846.85
+2026-01-10,Middle East,Electronics,95,730.79
+2026-01-11,North America,Industrial Machinery,72,4641.87
+2026-01-11,North America,Chemicals,79,1290.82
+2026-01-11,North America,Electronics,93,776.48
+2026-01-11,Europe,Chemicals,80,1206.87
+2026-01-11,Europe,Textiles,73,343.92
+2026-01-11,Europe,Agricultural Produce,97,145.74
+2026-01-11,Asia Pacific,Industrial Machinery,84,5391.35
+2026-01-11,Asia Pacific,Textiles,100,367.37
+2026-01-11,Asia Pacific,Chemicals,80,1082.47
+2026-01-11,Latin America,Textiles,76,316.91
+2026-01-11,Latin America,Chemicals,85,1139.63
+2026-01-11,Middle East,Agricultural Produce,90,135.09
+2026-01-11,Middle East,Industrial Machinery,76,4843.22
+2026-01-12,North America,Textiles,150,325.47
+2026-01-12,North America,Industrial Machinery,148,4751.52
+2026-01-12,Europe,Industrial Machinery,138,4962.45
+2026-01-12,Europe,Electronics,150,856.97
+2026-01-12,Asia Pacific,Textiles,132,329.61
+2026-01-12,Latin America,Chemicals,131,1254.65
+2026-01-12,Middle East,Textiles,136,328.06
+2026-01-12,Middle East,Industrial Machinery,127,4891.33
+2026-01-13,North America,Industrial Machinery,126,4543.4
+2026-01-13,Europe,Agricultural Produce,123,160.79
+2026-01-13,Asia Pacific,Textiles,125,330.27
+2026-01-13,Latin America,Agricultural Produce,150,151.43
+2026-01-13,Latin America,Electronics,127,839.24
+2026-01-13,Middle East,Textiles,136,378.38
+2026-01-13,Middle East,Electronics,146,754.14
+2026-01-13,Middle East,Chemicals,137,1086.7
+2026-01-14,North America,Chemicals,140,1238.25
+2026-01-14,Europe,Chemicals,150,1084.19
+2026-01-14,Europe,Electronics,137,789.15
+2026-01-14,Europe,Textiles,133,382.89
+2026-01-14,Asia Pacific,Industrial Machinery,133,5468.65
+2026-01-14,Latin America,Agricultural Produce,132,149.87
+2026-01-14,Latin America,Industrial Machinery,137,4915.07
+2026-01-14,Middle East,Electronics,136,855.52
+2026-01-14,Middle East,Industrial Machinery,134,5455.99
+2026-01-15,North America,Electronics,149,750.44
+2026-01-15,Europe,Agricultural Produce,129,155.99
+2026-01-15,Europe,Industrial Machinery,140,5146.02
+2026-01-15,Asia Pacific,Electronics,133,855.4
+2026-01-15,Asia Pacific,Industrial Machinery,150,4993.93
+2026-01-15,Latin America,Industrial Machinery,151,5223.58
+2026-01-15,Latin America,Agricultural Produce,154,149.39
+2026-01-15,Latin America,Textiles,140,367.86
+2026-01-15,Middle East,Agricultural Produce,141,148.23
+2026-01-16,North America,Chemicals,124,1174.27
+2026-01-16,North America,Agricultural Produce,138,139.78
+2026-01-16,North America,Textiles,124,365.05
+2026-01-16,Europe,Textiles,130,322.77
+2026-01-16,Asia Pacific,Textiles,150,317.6
+2026-01-16,Asia Pacific,Chemicals,131,1300.17
+2026-01-16,Asia Pacific,Industrial Machinery,141,4622.38
+2026-01-16,Latin America,Chemicals,130,1155.89
+2026-01-16,Latin America,Electronics,129,839.3
+2026-01-16,Latin America,Agricultural Produce,145,142.1
+2026-01-16,Middle East,Industrial Machinery,139,4970.12
+2026-01-16,Middle East,Chemicals,135,1199.19
+2026-01-17,North America,Industrial Machinery,103,5050.17
+2026-01-17,North America,Agricultural Produce,93,155.21
+2026-01-17,North America,Textiles,77,357.14
+2026-01-17,Europe,Agricultural Produce,97,150.02
+2026-01-17,Europe,Industrial Machinery,90,4578.91
+2026-01-17,Asia Pacific,Agricultural Produce,100,149.33
+2026-01-17,Latin America,Industrial Machinery,83,5468.03
+2026-01-17,Latin America,Agricultural Produce,81,152.24
+2026-01-17,Middle East,Textiles,99,317.41
+2026-01-17,Middle East,Industrial Machinery,79,5294.21
+2026-01-18,North America,Electronics,103,764.16
+2026-01-18,North America,Chemicals,105,1280.12
+2026-01-18,Europe,Textiles,78,340.48
+2026-01-18,Europe,Electronics,95,856.37
+2026-01-18,Europe,Chemicals,87,1109.04
+2026-01-18,Asia Pacific,Electronics,103,834.88
+2026-01-18,Latin America,Electronics,102,790.38
+2026-01-18,Middle East,Industrial Machinery,83,5457.22
+2026-01-18,Middle East,Chemicals,96,1143.97
+2026-01-19,North America,Industrial Machinery,128,5347.27
+2026-01-19,North America,Textiles,143,333.39
+2026-01-19,Europe,Chemicals,136,1175.41
+2026-01-19,Europe,Industrial Machinery,128,4654.74
+2026-01-19,Europe,Agricultural Produce,148,135.73
+2026-01-19,Asia Pacific,Textiles,142,372.99
+2026-01-19,Latin America,Electronics,137,754.07
+2026-01-19,Middle East,Electronics,127,810.66
+2026-01-20,North America,Textiles,126,341.17
+2026-01-20,North America,Industrial Machinery,132,5282.08
+2026-01-20,North America,Chemicals,144,1146.05
+2026-01-20,Europe,Electronics,146,798.23
+2026-01-20,Asia Pacific,Textiles,149,339.62
+2026-01-20,Asia Pacific,Industrial Machinery,133,5482.59
+2026-01-20,Latin America,Electronics,154,805.2
+2026-01-20,Middle East,Textiles,129,341.13
+2026-01-20,Middle East,Chemicals,127,1166.58
+2026-01-21,North America,Agricultural Produce,152,148.49
+2026-01-21,Europe,Electronics,133,865.51
+2026-01-21,Europe,Textiles,138,321.6
+2026-01-21,Asia Pacific,Textiles,149,339.46
+2026-01-21,Asia Pacific,Industrial Machinery,132,4637.57
+2026-01-21,Latin America,Electronics,142,795.26
+2026-01-21,Middle East,Chemicals,130,1217.27
+2026-01-21,Middle East,Agricultural Produce,134,157.99
+2026-01-21,Middle East,Electronics,154,796.02
+2026-01-22,North America,Textiles,152,333.48
+2026-01-22,North America,Chemicals,148,1226.69
+2026-01-22,North America,Electronics,148,750.89
+2026-01-22,Europe,Chemicals,132,1083.72
+2026-01-22,Europe,Textiles,152,383.5
+2026-01-22,Asia Pacific,Electronics,137,745.57
+2026-01-22,Asia Pacific,Textiles,157,359.03
+2026-01-22,Asia Pacific,Industrial Machinery,134,4811.88
+2026-01-22,Latin America,Agricultural Produce,154,144.43
+2026-01-22,Latin America,Industrial Machinery,144,5338.9
+2026-01-22,Latin America,Chemicals,145,1281.54
+2026-01-22,Middle East,Industrial Machinery,130,5417.72
+2026-01-22,Middle East,Textiles,127,382.32
+2026-01-22,Middle East,Agricultural Produce,154,158.4
+2026-01-23,North America,Electronics,128,869.4
+2026-01-23,Europe,Industrial Machinery,129,4960.55
+2026-01-23,Asia Pacific,Electronics,142,770.13
+2026-01-23,Latin America,Industrial Machinery,139,4918.9
+2026-01-23,Latin America,Chemicals,130,1094.49
+2026-01-23,Middle East,Industrial Machinery,152,4996.2
+2026-01-23,Middle East,Agricultural Produce,138,149.78
+2026-01-23,Middle East,Electronics,135,798.14
+2026-01-24,North America,Textiles,87,351.6
+2026-01-24,North America,Electronics,86,876.94
+2026-01-24,North America,Chemicals,91,1287.69
+2026-01-24,Europe,Textiles,97,339.98
+2026-01-24,Asia Pacific,Textiles,100,351.48
+2026-01-24,Asia Pacific,Electronics,90,742.02
+2026-01-24,Asia Pacific,Agricultural Produce,93,160.19
+2026-01-24,Latin America,Chemicals,101,1237.78
+2026-01-24,Middle East,Agricultural Produce,83,152.96
+2026-01-25,North America,Industrial Machinery,81,5046.27
+2026-01-25,North America,Chemicals,103,1091.75
+2026-01-25,Europe,Textiles,89,382.58
+2026-01-25,Asia Pacific,Electronics,94,769.39
+2026-01-25,Latin America,Industrial Machinery,107,5006.32
+2026-01-25,Latin America,Electronics,108,803.17
+2026-01-25,Latin America,Textiles,91,352.6
+2026-01-25,Middle East,Textiles,101,355.78
+2026-01-26,North America,Chemicals,150,1285.8
+2026-01-26,North America,Industrial Machinery,150,5351.8
+2026-01-26,North America,Agricultural Produce,150,139.28
+2026-01-26,Europe,Agricultural Produce,131,136.87
+2026-01-26,Europe,Industrial Machinery,140,5031.93
+2026-01-26,Asia Pacific,Electronics,143,872.36
+2026-01-26,Latin America,Industrial Machinery,159,5172.96
+2026-01-26,Middle East,Electronics,137,866.95
+2026-01-27,North America,Textiles,152,350.01
+2026-01-27,Europe,Industrial Machinery,134,4735.37
+2026-01-27,Europe,Agricultural Produce,156,149.82
+2026-01-27,Europe,Electronics,131,856.03
+2026-01-27,Asia Pacific,Chemicals,160,1256.19
+2026-01-27,Latin America,Agricultural Produce,141,154.49
+2026-01-27,Latin America,Textiles,139,334.85
+2026-01-27,Middle East,Industrial Machinery,139,5198.67
+2026-01-27,Middle East,Agricultural Produce,130,149.51
+2026-01-28,North America,Electronics,149,775.2
+2026-01-28,North America,Agricultural Produce,148,152.55
+2026-01-28,Europe,Industrial Machinery,159,5278.29
+2026-01-28,Europe,Chemicals,143,1207.44
+2026-01-28,Europe,Electronics,151,861.36
+2026-01-28,Asia Pacific,Chemicals,140,1134.7
+2026-01-28,Asia Pacific,Agricultural Produce,143,149.72
+2026-01-28,Latin America,Agricultural Produce,144,139.65
+2026-01-28,Middle East,Textiles,140,371.42
+2026-01-28,Middle East,Chemicals,150,1244.66
+2026-01-29,North America,Agricultural Produce,155,144.5
+2026-01-29,North America,Textiles,151,328.26
+2026-01-29,North America,Electronics,154,821.66
+2026-01-29,Europe,Electronics,152,861.1
+2026-01-29,Europe,Textiles,140,315.48
+2026-01-29,Europe,Chemicals,153,1199.75
+2026-01-29,Asia Pacific,Agricultural Produce,161,146.29
+2026-01-29,Latin America,Agricultural Produce,154,158.02
+2026-01-29,Latin America,Industrial Machinery,153,5010.74
+2026-01-29,Middle East,Electronics,144,797.37
+2026-01-29,Middle East,Industrial Machinery,157,5210.67
+2026-01-30,North America,Textiles,146,376.26
+2026-01-30,Europe,Textiles,137,316.35
+2026-01-30,Europe,Agricultural Produce,138,137.41
+2026-01-30,Asia Pacific,Textiles,149,371.49
+2026-01-30,Asia Pacific,Electronics,156,810.81
+2026-01-30,Latin America,Industrial Machinery,145,4825.76
+2026-01-30,Latin America,Chemicals,152,1187.3
+2026-01-30,Latin America,Textiles,140,321.15
+2026-01-30,Middle East,Textiles,135,316.23
+2026-01-30,Middle East,Industrial Machinery,145,5474.2
+2026-01-31,North America,Electronics,90,783.82
+2026-01-31,North America,Chemicals,107,1171.18
+2026-01-31,Europe,Industrial Machinery,90,4887.48
+2026-01-31,Asia Pacific,Electronics,83,720.94
+2026-01-31,Asia Pacific,Agricultural Produce,87,148.05
+2026-01-31,Latin America,Textiles,108,339.98
+2026-01-31,Latin America,Electronics,100,801.77
+2026-01-31,Latin America,Agricultural Produce,104,161.87
+2026-01-31,Middle East,Chemicals,93,1138.87
+2026-01-31,Middle East,Electronics,93,844.4
+2026-01-31,Middle East,Agricultural Produce,111,147.67
+2026-02-01,North America,Textiles,84,363.24
+2026-02-01,North America,Electronics,107,843.79
+2026-02-01,Europe,Textiles,85,350.27
+2026-02-01,Europe,Agricultural Produce,90,154.75
+2026-02-01,Asia Pacific,Industrial Machinery,91,5376.56
+2026-02-01,Latin America,Agricultural Produce,91,160.94
+2026-02-01,Latin America,Electronics,102,783.63
+2026-02-01,Latin America,Industrial Machinery,104,4762.27
+2026-02-01,Middle East,Agricultural Produce,112,140.05
+2026-02-01,Middle East,Textiles,107,330.1
+2026-02-01,Middle East,Electronics,89,814.81
+2026-02-02,North America,Electronics,152,856.51
+2026-02-02,North America,Textiles,162,345.11
+2026-02-02,North America,Agricultural Produce,134,161.57
+2026-02-02,Europe,Electronics,148,778.04
+2026-02-02,Asia Pacific,Textiles,159,347.67
+2026-02-02,Latin America,Agricultural Produce,137,158.75
+2026-02-02,Latin America,Industrial Machinery,159,4865.3
+2026-02-02,Latin America,Chemicals,156,1136.6
+2026-02-02,Middle East,Textiles,133,327.18
+2026-02-02,Middle East,Industrial Machinery,138,5316.83
+2026-02-03,North America,Industrial Machinery,145,4854.04
+2026-02-03,North America,Agricultural Produce,152,138.43
+2026-02-03,Europe,Chemicals,143,1247.11
+2026-02-03,Asia Pacific,Agricultural Produce,147,149.27
+2026-02-03,Latin America,Electronics,139,807.06
+2026-02-03,Latin America,Textiles,134,379.67
+2026-02-03,Middle East,Industrial Machinery,144,4784.25
+2026-02-04,North America,Industrial Machinery,150,5034.15
+2026-02-04,North America,Chemicals,151,1180.04
+2026-02-04,North America,Agricultural Produce,143,143.07
+2026-02-04,Europe,Industrial Machinery,151,4767.28
+2026-02-04,Europe,Electronics,163,792.0
+2026-02-04,Asia Pacific,Chemicals,152,1189.52
+2026-02-04,Asia Pacific,Agricultural Produce,147,151.16
+2026-02-04,Latin America,Industrial Machinery,142,5009.51
+2026-02-04,Latin America,Agricultural Produce,158,164.27
+2026-02-04,Latin America,Electronics,154,757.3
+2026-02-04,Middle East,Textiles,134,350.13
+2026-02-05,North America,Chemicals,154,1117.99
+2026-02-05,Europe,Electronics,143,740.66
+2026-02-05,Asia Pacific,Industrial Machinery,150,5229.44
+2026-02-05,Asia Pacific,Agricultural Produce,135,151.43
+2026-02-05,Asia Pacific,Textiles,154,370.41
+2026-02-05,Latin America,Agricultural Produce,151,142.93
+2026-02-05,Latin America,Industrial Machinery,154,5094.6
+2026-02-05,Middle East,Industrial Machinery,140,4662.33
+2026-02-05,Middle East,Agricultural Produce,155,146.57
+2026-02-06,North America,Chemicals,162,1311.5
+2026-02-06,Europe,Industrial Machinery,142,5339.96
+2026-02-06,Europe,Agricultural Produce,160,157.16
+2026-02-06,Asia Pacific,Chemicals,141,1188.73
+2026-02-06,Latin America,Agricultural Produce,153,142.14
+2026-02-06,Latin America,Industrial Machinery,146,4577.09
+2026-02-06,Latin America,Textiles,153,367.98
+2026-02-06,Middle East,Industrial Machinery,146,5100.33
+2026-02-07,North America,Textiles,114,380.63
+2026-02-07,Europe,Textiles,110,361.43
+2026-02-07,Europe,Chemicals,101,1244.99
+2026-02-07,Asia Pacific,Industrial Machinery,111,4795.17
+2026-02-07,Latin America,Electronics,91,819.53
+2026-02-07,Middle East,Industrial Machinery,95,4871.67
+2026-02-08,North America,Chemicals,87,1082.34
+2026-02-08,North America,Agricultural Produce,93,162.6
+2026-02-08,Europe,Electronics,108,846.53
+2026-02-08,Europe,Textiles,110,364.27
+2026-02-08,Europe,Agricultural Produce,112,157.17
+2026-02-08,Asia Pacific,Agricultural Produce,96,154.87
+2026-02-08,Asia Pacific,Industrial Machinery,107,5316.31
+2026-02-08,Latin America,Industrial Machinery,106,5326.37
+2026-02-08,Middle East,Textiles,89,335.83
+2026-02-09,North America,Industrial Machinery,154,5410.31
+2026-02-09,North America,Textiles,149,343.93
+2026-02-09,Europe,Chemicals,146,1137.49
+2026-02-09,Europe,Agricultural Produce,154,158.56
+2026-02-09,Asia Pacific,Chemicals,164,1315.69
+2026-02-09,Asia Pacific,Agricultural Produce,150,159.77
+2026-02-09,Latin America,Textiles,150,341.2
+2026-02-09,Latin America,Agricultural Produce,141,151.77
+2026-02-09,Latin America,Industrial Machinery,154,4852.87
+2026-02-09,Middle East,Industrial Machinery,165,4527.26
+2026-02-09,Middle East,Textiles,139,380.27
+2026-02-09,Middle East,Electronics,140,755.52
+2026-02-10,North America,Industrial Machinery,150,5122.5
+2026-02-10,Europe,Textiles,151,342.57
+2026-02-10,Asia Pacific,Electronics,162,748.71
+2026-02-10,Latin America,Electronics,147,846.31
+2026-02-10,Middle East,Industrial Machinery,148,5054.34
+2026-02-10,Middle East,Textiles,137,331.79
+2026-02-10,Middle East,Agricultural Produce,160,139.64
+2026-02-11,North America,Industrial Machinery,148,5158.25
+2026-02-11,North America,Electronics,147,777.49
+2026-02-11,North America,Agricultural Produce,138,160.44
+2026-02-11,Europe,Agricultural Produce,139,163.62
+2026-02-11,Asia Pacific,Agricultural Produce,162,161.27
+2026-02-11,Latin America,Agricultural Produce,164,151.24
+2026-02-11,Middle East,Textiles,153,373.2
+2026-02-11,Middle East,Electronics,162,824.48
+2026-02-11,Middle East,Chemicals,143,1103.22
+2026-02-12,North America,Electronics,155,857.32
+2026-02-12,North America,Chemicals,167,1178.25
+2026-02-12,Europe,Industrial Machinery,168,5131.72
+2026-02-12,Europe,Chemicals,146,1240.31
+2026-02-12,Asia Pacific,Industrial Machinery,157,4782.94
+2026-02-12,Asia Pacific,Electronics,165,824.25
+2026-02-12,Latin America,Chemicals,153,1118.25
+2026-02-12,Middle East,Agricultural Produce,155,147.28
+2026-02-12,Middle East,Textiles,156,359.81
+2026-02-13,North America,Chemicals,146,1223.43
+2026-02-13,Europe,Electronics,166,729.21
+2026-02-13,Asia Pacific,Industrial Machinery,147,4867.82
+2026-02-13,Latin America,Agricultural Produce,148,152.48
+2026-02-13,Middle East,Textiles,158,349.53
+2026-02-13,Middle East,Agricultural Produce,148,146.38
+2026-02-13,Middle East,Industrial Machinery,157,5198.9
+2026-02-14,North America,Industrial Machinery,100,4948.4
+2026-02-14,North America,Chemicals,99,1266.99
+2026-02-14,North America,Electronics,119,867.46
+2026-02-14,Europe,Agricultural Produce,99,135.08
+2026-02-14,Europe,Electronics,115,809.34
+2026-02-14,Asia Pacific,Industrial Machinery,93,4974.78
+2026-02-14,Asia Pacific,Electronics,89,821.24
+2026-02-14,Asia Pacific,Chemicals,113,1209.69
+2026-02-14,Latin America,Textiles,118,364.84
+2026-02-14,Middle East,Chemicals,104,1295.6
+2026-02-14,Middle East,Industrial Machinery,97,4638.78
+2026-02-14,Middle East,Electronics,106,860.93
+2026-02-15,North America,Industrial Machinery,110,4643.04
+2026-02-15,Europe,Chemicals,105,1253.4
+2026-02-15,Europe,Industrial Machinery,101,5277.23
+2026-02-15,Asia Pacific,Industrial Machinery,102,5438.96
+2026-02-15,Latin America,Textiles,112,347.46
+2026-02-15,Latin America,Industrial Machinery,104,5377.91
+2026-02-15,Latin America,Agricultural Produce,118,146.31
+2026-02-15,Middle East,Industrial Machinery,89,4744.55
+2026-02-15,Middle East,Agricultural Produce,95,163.28
+2026-02-15,Middle East,Electronics,99,854.91
+2026-02-16,North America,Chemicals,157,1081.76
+2026-02-16,North America,Electronics,141,839.5
+2026-02-16,North America,Agricultural Produce,165,145.62
+2026-02-16,Europe,Textiles,146,384.98
+2026-02-16,Asia Pacific,Industrial Machinery,155,5151.96
+2026-02-16,Asia Pacific,Chemicals,146,1301.54
+2026-02-16,Asia Pacific,Textiles,163,344.07
+2026-02-16,Latin America,Industrial Machinery,142,5310.37
+2026-02-16,Middle East,Agricultural Produce,157,159.91
+2026-02-17,North America,Agricultural Produce,167,136.76
+2026-02-17,North America,Textiles,156,358.74
+2026-02-17,Europe,Agricultural Produce,160,160.59
+2026-02-17,Asia Pacific,Chemicals,148,1158.16
+2026-02-17,Asia Pacific,Agricultural Produce,157,135.47
+2026-02-17,Latin America,Electronics,167,842.88
+2026-02-17,Latin America,Industrial Machinery,159,4951.11
+2026-02-17,Middle East,Textiles,147,382.87
+2026-02-18,North America,Textiles,154,324.0
+2026-02-18,North America,Electronics,143,826.93
+2026-02-18,North America,Agricultural Produce,159,138.86
+2026-02-18,Europe,Industrial Machinery,153,4671.8
+2026-02-18,Europe,Textiles,169,316.1
+2026-02-18,Europe,Agricultural Produce,145,137.92
+2026-02-18,Asia Pacific,Electronics,160,797.72
+2026-02-18,Asia Pacific,Textiles,162,343.42
+2026-02-18,Latin America,Industrial Machinery,159,4918.62
+2026-02-18,Middle East,Chemicals,156,1146.22
+2026-02-19,North America,Textiles,142,330.98
+2026-02-19,North America,Electronics,156,768.21
+2026-02-19,Europe,Textiles,161,357.95
+2026-02-19,Europe,Industrial Machinery,165,4888.22
+2026-02-19,Asia Pacific,Electronics,167,737.41
+2026-02-19,Latin America,Chemicals,153,1222.52
+2026-02-19,Latin America,Industrial Machinery,171,4617.42
+2026-02-19,Middle East,Electronics,167,834.61
+2026-02-19,Middle East,Textiles,167,374.07
+2026-02-19,Middle East,Industrial Machinery,146,5405.41
+2026-02-20,North America,Textiles,171,350.28
+2026-02-20,Europe,Chemicals,158,1195.81
+2026-02-20,Europe,Textiles,165,322.74
+2026-02-20,Europe,Agricultural Produce,150,162.52
+2026-02-20,Asia Pacific,Agricultural Produce,152,147.9
+2026-02-20,Latin America,Agricultural Produce,145,146.44
+2026-02-20,Middle East,Electronics,159,874.94
+2026-02-21,North America,Textiles,108,370.48
+2026-02-21,North America,Chemicals,112,1225.3
+2026-02-21,North America,Electronics,97,747.84
+2026-02-21,Europe,Chemicals,110,1214.01
+2026-02-21,Asia Pacific,Electronics,92,851.56
+2026-02-21,Latin America,Electronics,119,758.13
+2026-02-21,Middle East,Electronics,105,800.21
+2026-02-21,Middle East,Chemicals,113,1157.69
+2026-02-22,North America,Textiles,103,370.16
+2026-02-22,North America,Industrial Machinery,98,5140.12
+2026-02-22,North America,Electronics,104,843.22
+2026-02-22,Europe,Textiles,95,325.13
+2026-02-22,Asia Pacific,Industrial Machinery,108,5454.21
+2026-02-22,Latin America,Textiles,109,363.9
+2026-02-22,Middle East,Electronics,104,764.45
+2026-02-22,Middle East,Agricultural Produce,101,151.32
+2026-02-23,North America,Agricultural Produce,144,140.53
+2026-02-23,Europe,Textiles,167,379.14
+2026-02-23,Europe,Agricultural Produce,165,150.18
+2026-02-23,Europe,Chemicals,161,1123.49
+2026-02-23,Asia Pacific,Agricultural Produce,146,153.4
+2026-02-23,Latin America,Textiles,149,319.89
+2026-02-23,Middle East,Electronics,166,871.36
+2026-02-23,Middle East,Agricultural Produce,150,151.54
+2026-02-24,North America,Electronics,153,759.61
+2026-02-24,Europe,Electronics,173,816.96
+2026-02-24,Europe,Chemicals,168,1222.36
+2026-02-24,Asia Pacific,Textiles,160,360.68
+2026-02-24,Asia Pacific,Industrial Machinery,163,4778.65
+2026-02-24,Latin America,Electronics,151,870.52
+2026-02-24,Middle East,Textiles,159,352.85
+2026-02-25,North America,Textiles,172,380.22
+2026-02-25,Europe,Chemicals,165,1137.29
+2026-02-25,Europe,Electronics,158,773.61
+2026-02-25,Asia Pacific,Industrial Machinery,167,5056.26
+2026-02-25,Latin America,Industrial Machinery,156,4864.63
+2026-02-25,Middle East,Chemicals,145,1189.49
+2026-02-25,Middle East,Textiles,161,348.64
+2026-02-25,Middle East,Electronics,144,859.57
+2026-02-26,North America,Industrial Machinery,167,5469.24
+2026-02-26,North America,Chemicals,145,1106.2
+2026-02-26,North America,Electronics,154,721.35
+2026-02-26,Europe,Industrial Machinery,147,5015.61
+2026-02-26,Europe,Chemicals,159,1192.5
+2026-02-26,Europe,Textiles,161,345.52
+2026-02-26,Asia Pacific,Agricultural Produce,175,153.51
+2026-02-26,Asia Pacific,Electronics,162,813.66
+2026-02-26,Latin America,Textiles,166,321.96
+2026-02-26,Latin America,Chemicals,169,1097.28
+2026-02-26,Middle East,Agricultural Produce,166,146.83
+2026-02-26,Middle East,Industrial Machinery,165,4915.1
+2026-02-27,North America,Chemicals,171,1315.56
+2026-02-27,North America,Agricultural Produce,145,149.51
+2026-02-27,Europe,Industrial Machinery,175,4570.89
+2026-02-27,Europe,Electronics,149,755.96
+2026-02-27,Europe,Textiles,145,378.21
+2026-02-27,Asia Pacific,Agricultural Produce,163,147.23
+2026-02-27,Asia Pacific,Textiles,168,342.35
+2026-02-27,Asia Pacific,Electronics,157,761.67
+2026-02-27,Latin America,Electronics,170,788.6
+2026-02-27,Middle East,Electronics,167,806.6
+2026-02-27,Middle East,Textiles,147,323.18
+2026-02-27,Middle East,Chemicals,147,1236.42
+2026-02-28,North America,Chemicals,101,1244.34
+2026-02-28,North America,Industrial Machinery,117,5302.49
+2026-02-28,North America,Electronics,122,799.19
+2026-02-28,Europe,Industrial Machinery,100,4994.82
+2026-02-28,Europe,Electronics,111,742.92
+2026-02-28,Europe,Agricultural Produce,96,138.33
+2026-02-28,Asia Pacific,Textiles,112,374.28
+2026-02-28,Latin America,Chemicals,110,1294.8
+2026-02-28,Latin America,Textiles,103,334.26
+2026-02-28,Latin America,Agricultural Produce,126,139.64
+2026-02-28,Middle East,Textiles,126,331.6
+2026-02-28,Middle East,Electronics,121,875.33
+2026-02-28,Middle East,Chemicals,125,1238.59
+2026-03-01,North America,Agricultural Produce,114,138.92
+2026-03-01,Europe,Textiles,96,364.47
+2026-03-01,Europe,Electronics,98,826.66
+2026-03-01,Asia Pacific,Textiles,125,332.39
+2026-03-01,Asia Pacific,Electronics,107,722.27
+2026-03-01,Asia Pacific,Industrial Machinery,118,4858.5
+2026-03-01,Latin America,Industrial Machinery,102,5427.06
+2026-03-01,Middle East,Textiles,121,382.77
+2026-03-01,Middle East,Chemicals,116,1145.34
+2026-03-01,Middle East,Agricultural Produce,104,163.12
+2026-03-02,North America,Textiles,157,357.12
+2026-03-02,North America,Electronics,151,767.52
+2026-03-02,North America,Industrial Machinery,158,5488.69
+2026-03-02,Europe,Chemicals,166,1205.59
+2026-03-02,Asia Pacific,Chemicals,159,1171.06
+2026-03-02,Asia Pacific,Agricultural Produce,159,164.52
+2026-03-02,Asia Pacific,Textiles,164,352.06
+2026-03-02,Latin America,Electronics,156,808.66
+2026-03-02,Middle East,Agricultural Produce,175,137.44
+2026-03-02,Middle East,Electronics,160,732.35
+2026-03-03,North America,Textiles,158,350.87
+2026-03-03,North America,Electronics,159,843.74
+2026-03-03,North America,Industrial Machinery,165,4507.09
+2026-03-03,Europe,Textiles,161,333.94
+2026-03-03,Europe,Industrial Machinery,168,5242.79
+2026-03-03,Asia Pacific,Electronics,152,857.49
+2026-03-03,Asia Pacific,Textiles,175,368.93
+2026-03-03,Asia Pacific,Industrial Machinery,147,4611.51
+2026-03-03,Latin America,Agricultural Produce,155,143.55
+2026-03-03,Latin America,Electronics,150,805.98
+2026-03-03,Middle East,Agricultural Produce,171,155.67
+2026-03-03,Middle East,Industrial Machinery,162,4508.44
+2026-03-04,North America,Textiles,168,369.36
+2026-03-04,Europe,Chemicals,175,1218.83
+2026-03-04,Europe,Electronics,177,774.37
+2026-03-04,Europe,Agricultural Produce,168,164.13
+2026-03-04,Asia Pacific,Industrial Machinery,173,4886.92
+2026-03-04,Asia Pacific,Electronics,166,836.79
+2026-03-04,Asia Pacific,Chemicals,165,1108.92
+2026-03-04,Latin America,Textiles,151,344.75
+2026-03-04,Latin America,Agricultural Produce,164,163.79
+2026-03-04,Middle East,Agricultural Produce,149,148.68
+2026-03-04,Middle East,Industrial Machinery,175,4917.9
+2026-03-05,North America,Industrial Machinery,149,4783.97
+2026-03-05,Europe,Textiles,153,352.84
+2026-03-05,Europe,Agricultural Produce,150,137.19
+2026-03-05,Asia Pacific,Textiles,158,323.39
+2026-03-05,Asia Pacific,Chemicals,168,1213.36
+2026-03-05,Latin America,Industrial Machinery,164,4551.99
+2026-03-05,Middle East,Industrial Machinery,176,5047.4
+2026-03-06,North America,Industrial Machinery,169,5441.1
+2026-03-06,Europe,Industrial Machinery,154,4824.06
+2026-03-06,Asia Pacific,Electronics,169,828.51
+2026-03-06,Asia Pacific,Agricultural Produce,161,148.83
+2026-03-06,Latin America,Textiles,174,366.93
+2026-03-06,Latin America,Electronics,159,767.79
+2026-03-06,Latin America,Industrial Machinery,171,5191.19
+2026-03-06,Middle East,Agricultural Produce,157,147.76
+2026-03-07,North America,Textiles,119,380.53
+2026-03-07,Europe,Textiles,123,352.31
+2026-03-07,Asia Pacific,Agricultural Produce,126,158.54
+2026-03-07,Asia Pacific,Textiles,128,315.3
+2026-03-07,Asia Pacific,Electronics,123,835.76
+2026-03-07,Latin America,Agricultural Produce,100,139.78
+2026-03-07,Middle East,Textiles,110,350.15
+2026-03-07,Middle East,Chemicals,125,1229.07
+2026-03-07,Middle East,Electronics,101,850.79
+2026-03-08,North America,Industrial Machinery,129,5022.89
+2026-03-08,Europe,Textiles,122,363.24
+2026-03-08,Asia Pacific,Chemicals,102,1228.92
+2026-03-08,Asia Pacific,Agricultural Produce,106,159.32
+2026-03-08,Latin America,Agricultural Produce,130,154.21
+2026-03-08,Latin America,Chemicals,117,1272.42
+2026-03-08,Middle East,Industrial Machinery,125,4734.57
+2026-03-08,Middle East,Agricultural Produce,119,141.38
+2026-03-08,Middle East,Chemicals,130,1113.56
+2026-03-09,North America,Agricultural Produce,153,163.17
+2026-03-09,North America,Textiles,171,350.06
+2026-03-09,North America,Industrial Machinery,178,4624.26
+2026-03-09,Europe,Chemicals,151,1175.3
+2026-03-09,Europe,Industrial Machinery,153,4721.26
+2026-03-09,Europe,Electronics,162,777.14
+2026-03-09,Asia Pacific,Industrial Machinery,170,4586.3
+2026-03-09,Latin America,Textiles,151,384.03
+2026-03-09,Latin America,Chemicals,156,1268.02
+2026-03-09,Latin America,Industrial Machinery,172,4615.97
+2026-03-09,Middle East,Textiles,165,327.47
+2026-03-09,Middle East,Agricultural Produce,166,136.24
+2026-03-10,North America,Textiles,159,321.41
+2026-03-10,Europe,Electronics,160,727.04
+2026-03-10,Europe,Industrial Machinery,176,5433.55
+2026-03-10,Europe,Chemicals,152,1225.67
+2026-03-10,Asia Pacific,Textiles,164,368.3
+2026-03-10,Asia Pacific,Chemicals,170,1195.34
+2026-03-10,Asia Pacific,Agricultural Produce,178,142.43
+2026-03-10,Latin America,Industrial Machinery,165,5425.98
+2026-03-10,Latin America,Textiles,158,343.71
+2026-03-10,Latin America,Electronics,157,835.88
+2026-03-10,Middle East,Textiles,173,315.04
+2026-03-11,North America,Electronics,179,806.23
+2026-03-11,North America,Chemicals,154,1242.73
+2026-03-11,Europe,Electronics,172,751.74
+2026-03-11,Asia Pacific,Industrial Machinery,171,4860.98
+2026-03-11,Asia Pacific,Textiles,175,325.01
+2026-03-11,Asia Pacific,Electronics,157,721.05
+2026-03-11,Latin America,Textiles,172,381.86
+2026-03-11,Latin America,Electronics,152,815.57
+2026-03-11,Latin America,Agricultural Produce,161,162.95
+2026-03-11,Middle East,Agricultural Produce,159,147.84
+2026-03-11,Middle East,Textiles,177,377.89
+2026-03-12,North America,Industrial Machinery,168,5270.45
+2026-03-12,North America,Chemicals,154,1255.0
+2026-03-12,North America,Agricultural Produce,171,143.45
+2026-03-12,Europe,Industrial Machinery,154,4924.53
+2026-03-12,Europe,Chemicals,182,1191.44
+2026-03-12,Asia Pacific,Chemicals,174,1203.61
+2026-03-12,Asia Pacific,Electronics,157,859.52
+2026-03-12,Latin America,Electronics,175,843.25
+2026-03-12,Latin America,Chemicals,174,1110.0
+2026-03-12,Middle East,Textiles,173,351.31
+2026-03-13,North America,Chemicals,163,1296.08
+2026-03-13,Europe,Agricultural Produce,160,150.45
+2026-03-13,Asia Pacific,Electronics,163,860.21
+2026-03-13,Asia Pacific,Industrial Machinery,170,4921.14
+2026-03-13,Asia Pacific,Textiles,168,340.12
+2026-03-13,Latin America,Chemicals,158,1161.56
+2026-03-13,Middle East,Chemicals,168,1115.28
+2026-03-14,North America,Textiles,132,383.55
+2026-03-14,Europe,Textiles,133,366.7
+2026-03-14,Europe,Industrial Machinery,116,4941.99
+2026-03-14,Asia Pacific,Electronics,132,824.68
+2026-03-14,Latin America,Industrial Machinery,125,4536.69
+2026-03-14,Middle East,Textiles,132,320.03
+2026-03-14,Middle East,Electronics,112,725.03
+2026-03-15,North America,Chemicals,119,1172.91
+2026-03-15,North America,Industrial Machinery,111,5439.56
+2026-03-15,Europe,Electronics,130,786.88
+2026-03-15,Europe,Textiles,120,345.1
+2026-03-15,Europe,Industrial Machinery,127,5094.2
+2026-03-15,Asia Pacific,Agricultural Produce,118,147.6
+2026-03-15,Asia Pacific,Chemicals,123,1220.28
+2026-03-15,Latin America,Chemicals,130,1229.88
+2026-03-15,Middle East,Textiles,123,315.73
+2026-03-15,Middle East,Chemicals,119,1282.21
+2026-03-16,North America,Chemicals,176,1100.15
+2026-03-16,Europe,Industrial Machinery,180,4904.7
+2026-03-16,Europe,Agricultural Produce,183,147.03
+2026-03-16,Asia Pacific,Textiles,184,367.15
+2026-03-16,Asia Pacific,Agricultural Produce,177,136.59
+2026-03-16,Asia Pacific,Electronics,160,781.38
+2026-03-16,Latin America,Agricultural Produce,167,145.62
+2026-03-16,Latin America,Industrial Machinery,181,5179.68
+2026-03-16,Middle East,Chemicals,172,1220.81
+2026-03-16,Middle East,Industrial Machinery,172,4892.28
+2026-03-16,Middle East,Agricultural Produce,174,139.2
+2026-03-17,North America,Electronics,161,768.83
+2026-03-17,Europe,Industrial Machinery,173,5335.37
+2026-03-17,Asia Pacific,Agricultural Produce,170,161.21
+2026-03-17,Asia Pacific,Electronics,172,876.84
+2026-03-17,Asia Pacific,Textiles,179,372.81
+2026-03-17,Latin America,Agricultural Produce,163,139.09
+2026-03-17,Middle East,Electronics,173,795.0
+2026-03-17,Middle East,Industrial Machinery,162,4661.48
+2026-03-17,Middle East,Textiles,161,366.81
+2026-03-18,North America,Chemicals,168,1285.29
+2026-03-18,North America,Textiles,168,333.85
+2026-03-18,North America,Electronics,171,724.25
+2026-03-18,Europe,Textiles,166,350.16
+2026-03-18,Europe,Chemicals,175,1158.61
+2026-03-18,Europe,Electronics,178,744.04
+2026-03-18,Asia Pacific,Agricultural Produce,161,152.82
+2026-03-18,Asia Pacific,Industrial Machinery,172,5358.03
+2026-03-18,Asia Pacific,Textiles,156,336.66
+2026-03-18,Latin America,Agricultural Produce,157,149.64
+2026-03-18,Latin America,Electronics,175,819.57
+2026-03-18,Middle East,Electronics,161,794.94
+2026-03-18,Middle East,Industrial Machinery,165,5010.33
+2026-03-19,North America,Electronics,158,729.81
+2026-03-19,Europe,Industrial Machinery,169,4899.73
+2026-03-19,Europe,Agricultural Produce,163,135.96
+2026-03-19,Asia Pacific,Agricultural Produce,169,159.0
+2026-03-19,Asia Pacific,Electronics,168,867.92
+2026-03-19,Latin America,Industrial Machinery,171,5461.86
+2026-03-19,Latin America,Electronics,166,818.24
+2026-03-19,Middle East,Agricultural Produce,170,142.28
+2026-03-19,Middle East,Textiles,156,357.56
+2026-03-20,North America,Industrial Machinery,163,4659.34
+2026-03-20,North America,Textiles,169,353.59
+2026-03-20,North America,Electronics,159,782.14
+2026-03-20,Europe,Agricultural Produce,182,159.34
+2026-03-20,Asia Pacific,Chemicals,178,1148.35
+2026-03-20,Latin America,Agricultural Produce,159,163.05
+2026-03-20,Middle East,Textiles,184,359.11
+2026-03-20,Middle East,Electronics,183,759.8
+2026-03-20,Middle East,Chemicals,161,1318.9
+2026-03-21,North America,Chemicals,131,1312.57
+2026-03-21,North America,Agricultural Produce,120,139.65
+2026-03-21,North America,Textiles,119,348.17
+2026-03-21,Europe,Textiles,113,352.64
+2026-03-21,Europe,Electronics,123,847.2
+2026-03-21,Asia Pacific,Electronics,119,744.1
+2026-03-21,Asia Pacific,Chemicals,109,1260.79
+2026-03-21,Asia Pacific,Textiles,132,325.21
+2026-03-21,Latin America,Industrial Machinery,108,5018.53
+2026-03-21,Latin America,Chemicals,134,1259.71
+2026-03-21,Middle East,Textiles,128,342.42
+2026-03-21,Middle East,Electronics,112,730.81
+2026-03-22,North America,Chemicals,135,1305.63
+2026-03-22,North America,Electronics,107,861.09
+2026-03-22,North America,Agricultural Produce,129,156.96
+2026-03-22,Europe,Chemicals,119,1171.26
+2026-03-22,Europe,Industrial Machinery,122,4919.61
+2026-03-22,Asia Pacific,Agricultural Produce,136,159.41
+2026-03-22,Asia Pacific,Electronics,126,870.71
+2026-03-22,Latin America,Textiles,126,337.16
+2026-03-22,Middle East,Agricultural Produce,125,140.66
+2026-03-22,Middle East,Electronics,135,725.42
+2026-03-22,Middle East,Chemicals,127,1174.4
+2026-03-23,North America,Electronics,178,750.63
+2026-03-23,Europe,Electronics,174,865.54
+2026-03-23,Europe,Industrial Machinery,160,5451.72
+2026-03-23,Europe,Agricultural Produce,163,148.44
+2026-03-23,Asia Pacific,Electronics,167,855.49
+2026-03-23,Asia Pacific,Textiles,158,328.6
+2026-03-23,Asia Pacific,Industrial Machinery,179,5134.17
+2026-03-23,Latin America,Textiles,177,381.76
+2026-03-23,Middle East,Industrial Machinery,164,4773.16
+2026-03-23,Middle East,Chemicals,165,1307.05
+2026-03-23,Middle East,Electronics,157,748.05
+2026-03-24,North America,Industrial Machinery,174,4697.41
+2026-03-24,Europe,Electronics,164,852.38
+2026-03-24,Asia Pacific,Electronics,182,860.93
+2026-03-24,Asia Pacific,Chemicals,160,1312.63
+2026-03-24,Asia Pacific,Textiles,172,337.44
+2026-03-24,Latin America,Chemicals,173,1275.48
+2026-03-24,Latin America,Agricultural Produce,176,155.92
+2026-03-24,Middle East,Textiles,167,369.08
+2026-03-25,North America,Electronics,186,776.16
+2026-03-25,North America,Textiles,166,339.22
+2026-03-25,Europe,Textiles,184,322.18
+2026-03-25,Asia Pacific,Industrial Machinery,163,4503.37
+2026-03-25,Asia Pacific,Textiles,170,336.27
+2026-03-25,Latin America,Agricultural Produce,185,142.75
+2026-03-25,Middle East,Electronics,169,793.82
+2026-03-26,North America,Chemicals,184,1268.24
+2026-03-26,Europe,Electronics,175,744.81
+2026-03-26,Asia Pacific,Chemicals,174,1191.36
+2026-03-26,Latin America,Agricultural Produce,175,143.85
+2026-03-26,Middle East,Agricultural Produce,159,147.09
+2026-03-27,North America,Agricultural Produce,169,159.75
+2026-03-27,North America,Electronics,179,822.86
+2026-03-27,North America,Chemicals,176,1096.56
+2026-03-27,Europe,Industrial Machinery,175,5289.86
+2026-03-27,Asia Pacific,Industrial Machinery,159,4636.79
+2026-03-27,Asia Pacific,Electronics,187,750.78
+2026-03-27,Latin America,Agricultural Produce,172,159.73
+2026-03-27,Latin America,Industrial Machinery,169,5369.85
+2026-03-27,Latin America,Electronics,159,728.79
+2026-03-27,Middle East,Textiles,160,376.0
+2026-03-28,North America,Agricultural Produce,122,157.51
+2026-03-28,Europe,Industrial Machinery,120,4571.78
+2026-03-28,Asia Pacific,Industrial Machinery,123,4895.3
+2026-03-28,Asia Pacific,Electronics,132,732.04
+2026-03-28,Latin America,Electronics,117,860.22
+2026-03-28,Middle East,Chemicals,127,1115.86
+2026-03-29,North America,Agricultural Produce,115,152.14
+2026-03-29,North America,Textiles,124,374.58
+2026-03-29,North America,Electronics,124,763.02
+2026-03-29,Europe,Electronics,115,857.34
+2026-03-29,Europe,Agricultural Produce,126,161.45
+2026-03-29,Europe,Chemicals,119,1119.88
+2026-03-29,Asia Pacific,Agricultural Produce,123,151.01
+2026-03-29,Asia Pacific,Chemicals,111,1123.4
+2026-03-29,Latin America,Agricultural Produce,138,155.41
+2026-03-29,Latin America,Chemicals,138,1136.82
+2026-03-29,Latin America,Electronics,116,814.11
+2026-03-29,Middle East,Industrial Machinery,136,4591.82
+2026-03-29,Middle East,Electronics,121,737.15
+2026-03-30,North America,Industrial Machinery,163,4986.06
+2026-03-30,North America,Chemicals,176,1173.07
+2026-03-30,North America,Agricultural Produce,177,164.73
+2026-03-30,Europe,Agricultural Produce,163,139.17
+2026-03-30,Europe,Chemicals,176,1295.17
+2026-03-30,Asia Pacific,Textiles,187,316.1
+2026-03-30,Asia Pacific,Agricultural Produce,173,164.73
+2026-03-30,Latin America,Agricultural Produce,162,144.91
+2026-03-30,Middle East,Chemicals,189,1209.27
+2026-03-30,Middle East,Agricultural Produce,189,136.38
+2026-03-31,North America,Textiles,165,374.32
+2026-03-31,Europe,Agricultural Produce,181,135.39
+2026-03-31,Asia Pacific,Chemicals,178,1139.26
+2026-03-31,Latin America,Electronics,176,863.28
+2026-03-31,Latin America,Agricultural Produce,178,136.92
+2026-03-31,Middle East,Agricultural Produce,165,158.03
+2026-03-31,Middle East,Textiles,176,315.37
+2026-03-31,Middle East,Industrial Machinery,175,4950.1
+2026-04-01,North America,Electronics,187,870.2
+2026-04-01,North America,Agricultural Produce,178,150.88
+2026-04-01,North America,Textiles,176,343.4
+2026-04-01,Europe,Electronics,166,833.16
+2026-04-01,Asia Pacific,Agricultural Produce,172,150.62
+2026-04-01,Asia Pacific,Textiles,190,371.6
+2026-04-01,Latin America,Agricultural Produce,165,153.84
+2026-04-01,Latin America,Industrial Machinery,185,5093.9
+2026-04-01,Middle East,Electronics,172,829.76
+2026-04-02,North America,Industrial Machinery,186,4529.54
+2026-04-02,Europe,Agricultural Produce,175,135.88
+2026-04-02,Asia Pacific,Electronics,162,762.42
+2026-04-02,Asia Pacific,Agricultural Produce,169,161.85
+2026-04-02,Asia Pacific,Textiles,173,341.66
+2026-04-02,Latin America,Agricultural Produce,163,152.64
+2026-04-02,Middle East,Chemicals,184,1267.34
+2026-04-03,North America,Industrial Machinery,186,4584.81
+2026-04-03,Europe,Industrial Machinery,190,5308.86
+2026-04-03,Europe,Textiles,178,365.11
+2026-04-03,Europe,Agricultural Produce,168,137.81
+2026-04-03,Asia Pacific,Electronics,186,859.96
+2026-04-03,Asia Pacific,Agricultural Produce,178,138.06
+2026-04-03,Asia Pacific,Chemicals,176,1211.53
+2026-04-03,Latin America,Chemicals,193,1117.56
+2026-04-03,Latin America,Electronics,188,816.74
+2026-04-03,Middle East,Textiles,180,315.02
+2026-04-03,Middle East,Industrial Machinery,189,4546.39
+2026-04-03,Middle East,Agricultural Produce,167,135.35
+2026-04-04,North America,Industrial Machinery,117,5392.54
+2026-04-04,North America,Agricultural Produce,136,151.48
+2026-04-04,North America,Chemicals,119,1273.03
+2026-04-04,Europe,Agricultural Produce,114,137.74
+2026-04-04,Europe,Electronics,138,786.05
+2026-04-04,Europe,Chemicals,116,1142.22
+2026-04-04,Asia Pacific,Textiles,138,325.98
+2026-04-04,Asia Pacific,Electronics,125,746.34
+2026-04-04,Latin America,Chemicals,141,1211.55
+2026-04-04,Latin America,Textiles,121,372.99
+2026-04-04,Middle East,Agricultural Produce,130,146.16
+2026-04-04,Middle East,Industrial Machinery,119,5387.56
+2026-04-04,Middle East,Chemicals,132,1135.09
+2026-04-05,North America,Electronics,135,867.6
+2026-04-05,North America,Chemicals,126,1152.94
+2026-04-05,North America,Agricultural Produce,123,146.31
+2026-04-05,Europe,Agricultural Produce,128,159.73
+2026-04-05,Asia Pacific,Textiles,126,332.18
+2026-04-05,Asia Pacific,Chemicals,138,1165.99
+2026-04-05,Asia Pacific,Industrial Machinery,115,4508.64
+2026-04-05,Latin America,Agricultural Produce,136,144.88
+2026-04-05,Middle East,Chemicals,135,1200.49
+2026-04-05,Middle East,Industrial Machinery,131,5140.64
+2026-04-05,Middle East,Agricultural Produce,125,164.89
+2026-04-06,North America,Electronics,178,766.03
+2026-04-06,Europe,Industrial Machinery,187,5439.67
+2026-04-06,Asia Pacific,Electronics,186,853.04
+2026-04-06,Latin America,Chemicals,170,1229.2
+2026-04-06,Latin America,Agricultural Produce,171,138.98
+2026-04-06,Latin America,Electronics,168,788.87
+2026-04-06,Middle East,Chemicals,164,1269.72
+2026-04-06,Middle East,Industrial Machinery,192,5115.02
+2026-04-07,North America,Textiles,175,330.29
+2026-04-07,North America,Industrial Machinery,177,4866.97
+2026-04-07,Europe,Textiles,170,381.4
+2026-04-07,Europe,Industrial Machinery,193,4839.22
+2026-04-07,Asia Pacific,Industrial Machinery,178,4748.19
+2026-04-07,Asia Pacific,Chemicals,181,1276.22
+2026-04-07,Asia Pacific,Electronics,170,808.41
+2026-04-07,Latin America,Industrial Machinery,168,4524.33
+2026-04-07,Latin America,Agricultural Produce,170,151.22
+2026-04-07,Latin America,Electronics,180,743.13
+2026-04-07,Middle East,Chemicals,189,1230.59
+2026-04-08,North America,Electronics,186,822.18
+2026-04-08,North America,Industrial Machinery,171,4955.44
+2026-04-08,Europe,Electronics,185,748.88
+2026-04-08,Asia Pacific,Agricultural Produce,177,149.01
+2026-04-08,Latin America,Industrial Machinery,166,4653.94
+2026-04-08,Middle East,Industrial Machinery,190,4504.86
+2026-04-08,Middle East,Electronics,188,827.14
+2026-04-08,Middle East,Chemicals,187,1083.53
+2026-04-09,North America,Industrial Machinery,175,5354.68
+2026-04-09,North America,Chemicals,179,1225.91
+2026-04-09,Europe,Chemicals,192,1237.87
+2026-04-09,Asia Pacific,Chemicals,173,1168.66
+2026-04-09,Asia Pacific,Agricultural Produce,191,147.74
+2026-04-09,Asia Pacific,Textiles,188,342.35
+2026-04-09,Latin America,Electronics,185,761.11
+2026-04-09,Middle East,Industrial Machinery,190,5266.96
+2026-04-10,North America,Electronics,186,859.27
+2026-04-10,North America,Textiles,175,327.16
+2026-04-10,North America,Industrial Machinery,169,5421.61
+2026-04-10,Europe,Agricultural Produce,167,151.77
+2026-04-10,Europe,Electronics,175,865.44
+2026-04-10,Asia Pacific,Textiles,166,325.74
+2026-04-10,Latin America,Chemicals,184,1185.7
+2026-04-10,Latin America,Industrial Machinery,183,5474.37
+2026-04-10,Latin America,Textiles,184,344.92
+2026-04-10,Middle East,Industrial Machinery,167,5143.18
+2026-04-11,North America,Chemicals,125,1242.1
+2026-04-11,North America,Electronics,128,862.52
+2026-04-11,North America,Agricultural Produce,128,154.56
+2026-04-11,Europe,Agricultural Produce,142,164.32
+2026-04-11,Europe,Chemicals,147,1311.14
+2026-04-11,Asia Pacific,Industrial Machinery,118,5168.33
+2026-04-11,Asia Pacific,Textiles,120,362.96
+2026-04-11,Asia Pacific,Agricultural Produce,118,137.48
+2026-04-11,Latin America,Electronics,137,755.83
+2026-04-11,Latin America,Chemicals,121,1179.37
+2026-04-11,Latin America,Textiles,143,352.81
+2026-04-11,Middle East,Agricultural Produce,140,143.93
+2026-04-11,Middle East,Textiles,141,340.01
+2026-04-11,Middle East,Chemicals,131,1087.55
+2026-04-12,North America,Electronics,144,787.51
+2026-04-12,North America,Industrial Machinery,117,4787.03
+2026-04-12,North America,Agricultural Produce,143,150.2
+2026-04-12,Europe,Electronics,133,775.23
+2026-04-12,Europe,Textiles,137,366.32
+2026-04-12,Europe,Chemicals,143,1291.94
+2026-04-12,Asia Pacific,Textiles,122,321.41
+2026-04-12,Asia Pacific,Electronics,139,826.35
+2026-04-12,Latin America,Electronics,147,773.77
+2026-04-12,Latin America,Industrial Machinery,130,4539.98
+2026-04-12,Latin America,Agricultural Produce,137,138.16
+2026-04-12,Middle East,Chemicals,146,1082.37
+2026-04-12,Middle East,Textiles,134,358.37
+2026-04-12,Middle East,Industrial Machinery,121,4869.37
+2026-04-13,North America,Chemicals,194,1110.05
+2026-04-13,North America,Industrial Machinery,193,5355.64
+2026-04-13,North America,Electronics,195,877.07
+2026-04-13,Europe,Textiles,169,357.19
+2026-04-13,Europe,Industrial Machinery,198,4682.12
+2026-04-13,Asia Pacific,Industrial Machinery,171,4730.11
+2026-04-13,Asia Pacific,Textiles,191,350.11
+2026-04-13,Asia Pacific,Electronics,198,782.64
+2026-04-13,Latin America,Agricultural Produce,168,164.41
+2026-04-13,Latin America,Industrial Machinery,171,4889.04
+2026-04-13,Latin America,Electronics,196,837.48
+2026-04-13,Middle East,Textiles,181,353.44
+2026-04-14,North America,Electronics,172,810.81
+2026-04-14,North America,Textiles,191,359.2
+2026-04-14,North America,Industrial Machinery,175,4988.47
+2026-04-14,Europe,Agricultural Produce,193,153.69
+2026-04-14,Europe,Electronics,174,825.99
+2026-04-14,Asia Pacific,Electronics,176,841.08
+2026-04-14,Asia Pacific,Textiles,180,374.31
+2026-04-14,Asia Pacific,Agricultural Produce,176,161.84
+2026-04-14,Latin America,Chemicals,171,1208.29
+2026-04-14,Latin America,Industrial Machinery,178,4620.71
+2026-04-14,Latin America,Agricultural Produce,196,148.38
+2026-04-14,Middle East,Textiles,197,328.54
+2026-04-15,North America,Agricultural Produce,183,160.57
+2026-04-15,North America,Textiles,199,365.03
+2026-04-15,Europe,Textiles,170,361.53
+2026-04-15,Europe,Agricultural Produce,192,142.13
+2026-04-15,Asia Pacific,Industrial Machinery,177,4679.89
+2026-04-15,Asia Pacific,Chemicals,172,1257.76
+2026-04-15,Latin America,Textiles,179,365.3
+2026-04-15,Latin America,Industrial Machinery,172,5466.28
+2026-04-15,Middle East,Agricultural Produce,173,138.05
+2026-04-15,Middle East,Industrial Machinery,177,4585.67
+2026-04-15,Middle East,Chemicals,194,1302.13
+2026-04-16,North America,Textiles,186,321.09
+2026-04-16,North America,Chemicals,186,1126.91
+2026-04-16,North America,Industrial Machinery,198,5487.61
+2026-04-16,Europe,Industrial Machinery,178,5443.63
+2026-04-16,Europe,Chemicals,176,1193.42
+2026-04-16,Europe,Textiles,195,380.08
+2026-04-16,Asia Pacific,Industrial Machinery,185,5211.28
+2026-04-16,Asia Pacific,Agricultural Produce,179,142.57
+2026-04-16,Latin America,Textiles,192,380.61
+2026-04-16,Middle East,Agricultural Produce,188,162.13
+2026-04-16,Middle East,Textiles,198,358.8
+2026-04-16,Middle East,Chemicals,179,1261.42
+2026-04-17,North America,Agricultural Produce,185,163.01
+2026-04-17,Europe,Electronics,175,859.3
+2026-04-17,Europe,Industrial Machinery,189,5414.23
+2026-04-17,Europe,Chemicals,184,1133.15
+2026-04-17,Asia Pacific,Chemicals,176,1118.96
+2026-04-17,Asia Pacific,Industrial Machinery,199,5262.82
+2026-04-17,Asia Pacific,Electronics,198,761.42
+2026-04-17,Latin America,Chemicals,181,1128.97
+2026-04-17,Middle East,Industrial Machinery,189,4623.32
+2026-04-17,Middle East,Agricultural Produce,184,135.31
+2026-04-17,Middle East,Electronics,198,780.78
+2026-04-18,North America,Chemicals,131,1099.7
+2026-04-18,Europe,Textiles,130,330.31
+2026-04-18,Europe,Electronics,124,806.83
+2026-04-18,Asia Pacific,Agricultural Produce,129,150.24
+2026-04-18,Asia Pacific,Textiles,132,325.58
+2026-04-18,Asia Pacific,Industrial Machinery,147,5150.07
+2026-04-18,Latin America,Agricultural Produce,147,138.98
+2026-04-18,Middle East,Chemicals,148,1280.69
+2026-04-18,Middle East,Industrial Machinery,141,4526.37
+2026-04-19,North America,Chemicals,123,1146.37
+2026-04-19,North America,Industrial Machinery,150,4916.44
+2026-04-19,North America,Electronics,151,859.21
+2026-04-19,Europe,Industrial Machinery,126,4525.65
+2026-04-19,Europe,Agricultural Produce,139,135.55
+2026-04-19,Asia Pacific,Industrial Machinery,150,4502.28
+2026-04-19,Asia Pacific,Electronics,121,863.05
+2026-04-19,Latin America,Agricultural Produce,149,158.42
+2026-04-19,Latin America,Electronics,143,851.35
+2026-04-19,Middle East,Agricultural Produce,122,141.72
+2026-04-19,Middle East,Industrial Machinery,126,5368.47
+2026-04-19,Middle East,Electronics,129,764.85
+2026-04-20,North America,Industrial Machinery,194,5141.62
+2026-04-20,North America,Textiles,182,369.44
+2026-04-20,North America,Electronics,196,766.06
+2026-04-20,Europe,Electronics,188,729.92
+2026-04-20,Europe,Agricultural Produce,191,153.3
+2026-04-20,Europe,Textiles,187,351.52
+2026-04-20,Asia Pacific,Textiles,173,324.59
+2026-04-20,Asia Pacific,Agricultural Produce,183,138.32
+2026-04-20,Latin America,Industrial Machinery,200,4570.83
+2026-04-20,Latin America,Electronics,199,771.91
+2026-04-20,Latin America,Textiles,179,343.71
+2026-04-20,Middle East,Agricultural Produce,188,140.59
+2026-04-20,Middle East,Chemicals,171,1100.22
+2026-04-20,Middle East,Industrial Machinery,183,5254.52
+2026-04-21,North America,Electronics,182,840.53
+2026-04-21,North America,Agricultural Produce,187,153.89
+2026-04-21,Europe,Industrial Machinery,175,5366.39
+2026-04-21,Europe,Textiles,175,355.4
+2026-04-21,Asia Pacific,Industrial Machinery,195,4583.38
+2026-04-21,Asia Pacific,Chemicals,176,1162.43
+2026-04-21,Asia Pacific,Agricultural Produce,188,160.82
+2026-04-21,Latin America,Chemicals,199,1134.89
+2026-04-21,Latin America,Electronics,190,825.51
+2026-04-21,Latin America,Industrial Machinery,195,5214.36
+2026-04-21,Middle East,Textiles,187,379.46
+2026-04-21,Middle East,Electronics,188,748.17
+2026-04-22,North America,Industrial Machinery,196,5359.61
+2026-04-22,North America,Textiles,191,358.47
+2026-04-22,North America,Agricultural Produce,187,149.2
+2026-04-22,Europe,Electronics,199,860.46
+2026-04-22,Europe,Industrial Machinery,182,4555.53
+2026-04-22,Asia Pacific,Chemicals,172,1210.36
+2026-04-22,Asia Pacific,Industrial Machinery,185,5020.09
+2026-04-22,Latin America,Chemicals,190,1298.03
+2026-04-22,Latin America,Electronics,192,733.03
+2026-04-22,Middle East,Industrial Machinery,188,5429.29
+2026-04-22,Middle East,Textiles,189,348.17
+2026-04-23,North America,Agricultural Produce,182,150.63
+2026-04-23,North America,Textiles,178,379.68
+2026-04-23,North America,Electronics,198,759.41
+2026-04-23,Europe,Chemicals,184,1146.38
+2026-04-23,Asia Pacific,Industrial Machinery,197,5497.24
+2026-04-23,Asia Pacific,Electronics,173,731.1
+2026-04-23,Latin America,Textiles,190,366.71
+2026-04-23,Latin America,Chemicals,197,1278.82
+2026-04-23,Latin America,Agricultural Produce,174,158.87
+2026-04-23,Middle East,Electronics,185,863.04
+2026-04-23,Middle East,Industrial Machinery,179,5340.0
+2026-04-24,North America,Electronics,179,759.18
+2026-04-24,North America,Chemicals,196,1235.68
+2026-04-24,North America,Textiles,198,334.34
+2026-04-24,Europe,Agricultural Produce,191,152.25
+2026-04-24,Europe,Textiles,194,335.91
+2026-04-24,Asia Pacific,Industrial Machinery,191,5334.93
+2026-04-24,Asia Pacific,Textiles,191,360.16
+2026-04-24,Asia Pacific,Electronics,202,756.39
+2026-04-24,Latin America,Electronics,193,827.8
+2026-04-24,Latin America,Textiles,179,349.64
+2026-04-24,Latin America,Agricultural Produce,175,141.05
+2026-04-24,Middle East,Agricultural Produce,189,156.63
+2026-04-24,Middle East,Textiles,177,362.82
+2026-04-24,Middle East,Chemicals,186,1240.57
+2026-04-25,North America,Textiles,127,340.5
+2026-04-25,Europe,Electronics,140,749.05
+2026-04-25,Europe,Chemicals,149,1132.66
+2026-04-25,Europe,Textiles,146,319.29
+2026-04-25,Asia Pacific,Electronics,146,810.02
+2026-04-25,Asia Pacific,Textiles,139,320.89
+2026-04-25,Asia Pacific,Chemicals,152,1145.25
+2026-04-25,Latin America,Agricultural Produce,128,136.1
+2026-04-25,Middle East,Chemicals,126,1282.64
+2026-04-26,North America,Chemicals,128,1118.34
+2026-04-26,North America,Agricultural Produce,130,151.21
+2026-04-26,Europe,Chemicals,130,1291.92
+2026-04-26,Europe,Textiles,125,344.84
+2026-04-26,Asia Pacific,Textiles,141,357.36
+2026-04-26,Asia Pacific,Industrial Machinery,150,5171.86
+2026-04-26,Asia Pacific,Agricultural Produce,137,146.6
+2026-04-26,Latin America,Electronics,133,840.67
+2026-04-26,Middle East,Industrial Machinery,126,5074.09
+2026-04-26,Middle East,Chemicals,143,1299.0
+2026-04-27,North America,Industrial Machinery,176,5026.71
+2026-04-27,North America,Chemicals,180,1230.97
+2026-04-27,Europe,Agricultural Produce,194,154.58
+2026-04-27,Europe,Textiles,177,352.81
+2026-04-27,Europe,Industrial Machinery,196,5323.5
+2026-04-27,Asia Pacific,Chemicals,180,1305.18
+2026-04-27,Asia Pacific,Industrial Machinery,180,4873.92
+2026-04-27,Latin America,Chemicals,182,1279.29
+2026-04-27,Latin America,Textiles,177,339.66
+2026-04-27,Latin America,Agricultural Produce,201,140.36
+2026-04-27,Middle East,Textiles,186,328.02
+2026-04-28,North America,Chemicals,189,1271.34
+2026-04-28,North America,Electronics,198,743.71
+2026-04-28,Europe,Industrial Machinery,187,5372.58
+2026-04-28,Europe,Agricultural Produce,176,155.35
+2026-04-28,Europe,Electronics,193,847.76
+2026-04-28,Asia Pacific,Industrial Machinery,201,4635.02
+2026-04-28,Latin America,Industrial Machinery,183,4775.74
+2026-04-28,Latin America,Textiles,179,369.92
+2026-04-28,Middle East,Textiles,182,371.81
+2026-04-29,North America,Chemicals,197,1281.22
+2026-04-29,Europe,Electronics,199,835.73
+2026-04-29,Europe,Textiles,181,363.79
+2026-04-29,Asia Pacific,Industrial Machinery,204,5305.8
+2026-04-29,Asia Pacific,Textiles,206,364.72
+2026-04-29,Latin America,Industrial Machinery,189,5381.4
+2026-04-29,Middle East,Industrial Machinery,197,5282.93
+2026-04-29,Middle East,Textiles,192,348.8
+2026-04-30,North America,Electronics,195,800.25
+2026-04-30,North America,Industrial Machinery,187,4787.4
+2026-04-30,North America,Agricultural Produce,203,155.0
+2026-04-30,Europe,Textiles,176,354.95
+2026-04-30,Europe,Agricultural Produce,182,164.99
+2026-04-30,Asia Pacific,Chemicals,194,1216.14
+2026-04-30,Asia Pacific,Textiles,185,348.89
+2026-04-30,Latin America,Chemicals,192,1208.19
+2026-04-30,Latin America,Electronics,190,737.69
+2026-04-30,Middle East,Electronics,179,780.22
+2026-04-30,Middle East,Textiles,187,349.54
+2026-05-01,North America,Textiles,186,335.13
+2026-05-01,North America,Agricultural Produce,207,157.64
+2026-05-01,North America,Industrial Machinery,187,5289.88
+2026-05-01,Europe,Industrial Machinery,200,5066.21
+2026-05-01,Asia Pacific,Industrial Machinery,184,4595.04
+2026-05-01,Latin America,Agricultural Produce,196,140.4
+2026-05-01,Middle East,Agricultural Produce,201,137.17
+2026-05-01,Middle East,Industrial Machinery,194,5236.11
+2026-05-01,Middle East,Electronics,205,811.89
+2026-05-02,North America,Electronics,137,852.05
+2026-05-02,North America,Textiles,151,316.69
+2026-05-02,North America,Industrial Machinery,138,5063.34
+2026-05-02,Europe,Agricultural Produce,137,138.96
+2026-05-02,Europe,Textiles,151,350.3
+2026-05-02,Europe,Industrial Machinery,147,5300.32
+2026-05-02,Asia Pacific,Chemicals,145,1112.71
+2026-05-02,Asia Pacific,Industrial Machinery,140,4518.4
+2026-05-02,Asia Pacific,Textiles,140,338.54
+2026-05-02,Latin America,Agricultural Produce,127,136.76
+2026-05-02,Latin America,Industrial Machinery,143,5297.18
+2026-05-02,Middle East,Industrial Machinery,148,5346.59
+2026-05-03,North America,Electronics,156,728.42
+2026-05-03,Europe,Agricultural Produce,128,153.7
+2026-05-03,Europe,Textiles,131,369.36
+2026-05-03,Asia Pacific,Industrial Machinery,132,4976.85
+2026-05-03,Latin America,Agricultural Produce,147,137.2
+2026-05-03,Latin America,Textiles,152,320.58
+2026-05-03,Latin America,Electronics,128,804.82
+2026-05-03,Middle East,Textiles,132,360.97
+2026-05-03,Middle East,Industrial Machinery,152,4516.11
+2026-05-03,Middle East,Electronics,152,785.26
+2026-05-04,North America,Textiles,185,319.85
+2026-05-04,North America,Chemicals,198,1296.49
+2026-05-04,North America,Electronics,189,858.54
+2026-05-04,Europe,Textiles,203,359.98
+2026-05-04,Europe,Chemicals,195,1084.05
+2026-05-04,Europe,Electronics,197,767.47
+2026-05-04,Asia Pacific,Agricultural Produce,204,160.09
+2026-05-04,Asia Pacific,Industrial Machinery,180,4889.28
+2026-05-04,Latin America,Industrial Machinery,181,4531.56
+2026-05-04,Middle East,Electronics,182,723.71
+2026-05-05,North America,Textiles,201,326.32
+2026-05-05,Europe,Industrial Machinery,209,5217.95
+2026-05-05,Europe,Agricultural Produce,198,149.32
+2026-05-05,Europe,Chemicals,191,1201.09
+2026-05-05,Asia Pacific,Electronics,179,875.87
+2026-05-05,Asia Pacific,Textiles,209,344.79
+2026-05-05,Latin America,Textiles,180,336.41
+2026-05-05,Middle East,Chemicals,196,1300.37
+2026-05-06,North America,Industrial Machinery,184,5057.42
+2026-05-06,North America,Textiles,201,322.97
+2026-05-06,North America,Agricultural Produce,191,138.47
+2026-05-06,Europe,Industrial Machinery,209,5064.53
+2026-05-06,Asia Pacific,Textiles,192,362.21
+2026-05-06,Latin America,Textiles,189,332.39
+2026-05-06,Middle East,Textiles,198,378.51
+2026-05-07,North America,Electronics,200,726.59
+2026-05-07,North America,Textiles,206,366.37
+2026-05-07,Europe,Agricultural Produce,183,135.35
+2026-05-07,Europe,Textiles,203,320.73
+2026-05-07,Asia Pacific,Chemicals,199,1281.59
+2026-05-07,Asia Pacific,Textiles,183,367.95
+2026-05-07,Asia Pacific,Agricultural Produce,195,159.9
+2026-05-07,Latin America,Agricultural Produce,204,139.67
+2026-05-07,Latin America,Industrial Machinery,183,4769.36
+2026-05-07,Middle East,Textiles,198,359.06
+2026-05-07,Middle East,Agricultural Produce,197,154.52
+2026-05-08,North America,Industrial Machinery,188,4626.65
+2026-05-08,North America,Textiles,192,355.89
+2026-05-08,North America,Chemicals,181,1175.38
+2026-05-08,Europe,Textiles,202,347.24
+2026-05-08,Asia Pacific,Chemicals,205,1304.2
+2026-05-08,Asia Pacific,Industrial Machinery,186,5424.99
+2026-05-08,Latin America,Industrial Machinery,200,5436.06
+2026-05-08,Latin America,Textiles,183,366.64
+2026-05-08,Middle East,Electronics,186,869.83
+2026-05-09,North America,Textiles,153,354.83
+2026-05-09,North America,Chemicals,158,1298.6
+2026-05-09,Europe,Textiles,161,316.33
+2026-05-09,Asia Pacific,Chemicals,159,1125.26
+2026-05-09,Asia Pacific,Agricultural Produce,132,160.33
+2026-05-09,Latin America,Industrial Machinery,149,5143.97
+2026-05-09,Middle East,Agricultural Produce,145,146.78
+2026-05-09,Middle East,Electronics,157,790.65
+2026-05-09,Middle East,Industrial Machinery,145,4784.21
+2026-05-10,North America,Textiles,150,328.89
+2026-05-10,Europe,Textiles,144,351.26
+2026-05-10,Europe,Agricultural Produce,160,148.1
+2026-05-10,Europe,Chemicals,135,1231.26
+2026-05-10,Asia Pacific,Agricultural Produce,139,139.26
+2026-05-10,Latin America,Agricultural Produce,136,154.87
+2026-05-10,Middle East,Agricultural Produce,144,146.84
+2026-05-10,Middle East,Electronics,159,804.1
+2026-05-11,North America,Chemicals,184,1176.23
+2026-05-11,Europe,Electronics,201,877.69
+2026-05-11,Europe,Agricultural Produce,202,143.28
+2026-05-11,Europe,Industrial Machinery,194,4912.61
+2026-05-11,Asia Pacific,Agricultural Produce,198,138.99
+2026-05-11,Latin America,Industrial Machinery,200,5225.75
+2026-05-11,Middle East,Agricultural Produce,195,135.64
+2026-05-11,Middle East,Textiles,198,330.03
+2026-05-11,Middle East,Industrial Machinery,200,4632.51
+2026-05-12,North America,Industrial Machinery,197,5455.64
+2026-05-12,Europe,Textiles,191,334.43
+2026-05-12,Europe,Agricultural Produce,193,154.22
+2026-05-12,Europe,Chemicals,194,1205.04
+2026-05-12,Asia Pacific,Textiles,203,360.52
+2026-05-12,Asia Pacific,Chemicals,189,1216.56
+2026-05-12,Latin America,Chemicals,192,1234.46
+2026-05-12,Latin America,Electronics,197,850.03
+2026-05-12,Latin America,Industrial Machinery,189,4831.68
+2026-05-12,Middle East,Chemicals,187,1179.35
+2026-05-12,Middle East,Industrial Machinery,206,4631.71
+2026-05-12,Middle East,Electronics,196,807.43
+2026-05-13,North America,Industrial Machinery,201,4914.66
+2026-05-13,North America,Textiles,203,373.53
+2026-05-13,North America,Chemicals,206,1171.76
+2026-05-13,Europe,Textiles,204,362.08
+2026-05-13,Asia Pacific,Agricultural Produce,187,142.65
+2026-05-13,Latin America,Industrial Machinery,188,5159.13
+2026-05-13,Middle East,Chemicals,211,1167.23
+2026-05-13,Middle East,Industrial Machinery,183,5496.31
+2026-05-14,North America,Industrial Machinery,201,4957.23
+2026-05-14,North America,Agricultural Produce,194,147.33
+2026-05-14,Europe,Chemicals,211,1147.99
+2026-05-14,Europe,Electronics,191,774.72
+2026-05-14,Europe,Industrial Machinery,200,4723.91
+2026-05-14,Asia Pacific,Textiles,199,318.25
+2026-05-14,Asia Pacific,Electronics,209,868.03
+2026-05-14,Latin America,Electronics,209,781.94
+2026-05-14,Latin America,Agricultural Produce,195,151.43
+2026-05-14,Latin America,Chemicals,188,1186.43
+2026-05-14,Middle East,Industrial Machinery,193,4916.05
+2026-05-15,North America,Electronics,189,777.6
+2026-05-15,North America,Agricultural Produce,194,152.38
+2026-05-15,North America,Chemicals,208,1139.28
+2026-05-15,Europe,Electronics,190,806.73
+2026-05-15,Asia Pacific,Agricultural Produce,199,149.84
+2026-05-15,Asia Pacific,Electronics,189,878.81
+2026-05-15,Latin America,Electronics,191,801.67
+2026-05-15,Middle East,Electronics,186,847.4
+2026-05-15,Middle East,Agricultural Produce,214,151.05
+2026-05-16,North America,Industrial Machinery,150,5103.09
+2026-05-16,North America,Chemicals,151,1272.46
+2026-05-16,Europe,Industrial Machinery,145,4794.3
+2026-05-16,Europe,Agricultural Produce,155,138.56
+2026-05-16,Asia Pacific,Industrial Machinery,163,5185.28
+2026-05-16,Asia Pacific,Agricultural Produce,164,150.27
+2026-05-16,Latin America,Textiles,151,333.67
+2026-05-16,Latin America,Agricultural Produce,164,155.36
+2026-05-16,Middle East,Industrial Machinery,156,5354.41
+2026-05-16,Middle East,Textiles,163,324.89
+2026-05-16,Middle East,Electronics,142,763.6
+2026-05-17,North America,Electronics,137,858.02
+2026-05-17,North America,Industrial Machinery,156,5128.56
+2026-05-17,Europe,Industrial Machinery,139,5228.34
+2026-05-17,Europe,Agricultural Produce,139,147.86
+2026-05-17,Asia Pacific,Textiles,152,333.41
+2026-05-17,Asia Pacific,Industrial Machinery,150,4671.05
+2026-05-17,Asia Pacific,Agricultural Produce,160,151.03
+2026-05-17,Latin America,Electronics,147,797.1
+2026-05-17,Latin America,Chemicals,155,1104.29
+2026-05-17,Middle East,Industrial Machinery,146,4909.32
+2026-05-18,North America,Chemicals,203,1200.84
+2026-05-18,North America,Electronics,211,756.44
+2026-05-18,North America,Agricultural Produce,189,136.85
+2026-05-18,Europe,Agricultural Produce,194,160.85
+2026-05-18,Europe,Electronics,207,835.01
+2026-05-18,Asia Pacific,Textiles,204,348.18
+2026-05-18,Latin America,Textiles,185,370.84
+2026-05-18,Middle East,Industrial Machinery,207,5328.76
+2026-05-18,Middle East,Textiles,185,345.09
+2026-05-19,North America,Agricultural Produce,202,162.04
+2026-05-19,Europe,Electronics,204,787.6
+2026-05-19,Europe,Textiles,208,352.81
+2026-05-19,Europe,Agricultural Produce,188,157.87
+2026-05-19,Asia Pacific,Textiles,211,352.25
+2026-05-19,Asia Pacific,Chemicals,197,1236.58
+2026-05-19,Latin America,Industrial Machinery,202,4999.46
+2026-05-19,Middle East,Agricultural Produce,186,135.88
+2026-05-19,Middle East,Chemicals,192,1185.83
+2026-05-20,North America,Chemicals,205,1122.58
+2026-05-20,North America,Textiles,212,369.83
+2026-05-20,North America,Industrial Machinery,215,4818.11
+2026-05-20,Europe,Industrial Machinery,213,5437.0
+2026-05-20,Europe,Electronics,208,748.77
+2026-05-20,Europe,Agricultural Produce,208,155.66
+2026-05-20,Asia Pacific,Chemicals,212,1290.1
+2026-05-20,Latin America,Agricultural Produce,190,138.75
+2026-05-20,Latin America,Industrial Machinery,204,4606.58
+2026-05-20,Middle East,Industrial Machinery,207,4578.41
+2026-05-20,Middle East,Electronics,215,862.84
+2026-05-21,North America,Chemicals,195,1276.62
+2026-05-21,North America,Industrial Machinery,193,5016.65
+2026-05-21,Europe,Chemicals,209,1314.84
+2026-05-21,Asia Pacific,Textiles,213,335.38
+2026-05-21,Latin America,Textiles,202,321.28
+2026-05-21,Latin America,Agricultural Produce,208,140.82
+2026-05-21,Middle East,Industrial Machinery,195,5486.83
+2026-05-21,Middle East,Agricultural Produce,216,164.95
+2026-05-22,North America,Textiles,208,350.36
+2026-05-22,North America,Electronics,202,788.89
+2026-05-22,North America,Industrial Machinery,190,4920.23
+2026-05-22,Europe,Agricultural Produce,213,152.65
+2026-05-22,Asia Pacific,Industrial Machinery,190,5262.17
+2026-05-22,Asia Pacific,Agricultural Produce,187,145.66
+2026-05-22,Latin America,Chemicals,213,1187.36
+2026-05-22,Latin America,Electronics,201,786.61
+2026-05-22,Middle East,Electronics,200,738.76
+2026-05-22,Middle East,Agricultural Produce,202,137.26
+2026-05-23,North America,Electronics,165,835.05
+2026-05-23,Europe,Chemicals,147,1237.83
+2026-05-23,Europe,Agricultural Produce,145,142.68
+2026-05-23,Asia Pacific,Textiles,158,377.9
+2026-05-23,Asia Pacific,Electronics,143,820.53
+2026-05-23,Asia Pacific,Agricultural Produce,141,137.68
+2026-05-23,Latin America,Industrial Machinery,149,5158.13
+2026-05-23,Latin America,Electronics,166,795.17
+2026-05-23,Latin America,Agricultural Produce,140,143.83
+2026-05-23,Middle East,Chemicals,141,1274.4
+2026-05-23,Middle East,Agricultural Produce,153,162.32
+2026-05-23,Middle East,Textiles,156,356.12
+2026-05-24,North America,Textiles,145,332.37
+2026-05-24,North America,Agricultural Produce,142,146.79
+2026-05-24,Europe,Textiles,143,335.19
+2026-05-24,Europe,Chemicals,146,1293.92
+2026-05-24,Europe,Agricultural Produce,164,164.81
+2026-05-24,Asia Pacific,Textiles,159,360.38
+2026-05-24,Latin America,Agricultural Produce,153,149.02
+2026-05-24,Latin America,Electronics,147,756.1
+2026-05-24,Latin America,Industrial Machinery,155,4866.0
+2026-05-24,Middle East,Textiles,152,369.57
+2026-05-24,Middle East,Electronics,165,737.2
+2026-05-25,North America,Electronics,204,869.23
+2026-05-25,Europe,Electronics,213,804.02
+2026-05-25,Europe,Textiles,205,334.05
+2026-05-25,Asia Pacific,Textiles,202,360.95
+2026-05-25,Asia Pacific,Industrial Machinery,204,4770.57
+2026-05-25,Latin America,Textiles,206,332.04
+2026-05-25,Middle East,Textiles,189,353.21
+2026-05-25,Middle East,Chemicals,203,1315.7
+2026-05-25,Middle East,Agricultural Produce,191,156.65
+2026-05-26,North America,Electronics,197,726.21
+2026-05-26,North America,Chemicals,207,1257.72
+2026-05-26,Europe,Electronics,206,797.82
+2026-05-26,Europe,Textiles,209,322.26
+2026-05-26,Europe,Chemicals,197,1094.25
+2026-05-26,Asia Pacific,Industrial Machinery,209,5171.66
+2026-05-26,Asia Pacific,Textiles,217,371.06
+2026-05-26,Latin America,Textiles,207,344.61
+2026-05-26,Latin America,Chemicals,203,1264.23
+2026-05-26,Latin America,Electronics,219,724.94
+2026-05-26,Middle East,Industrial Machinery,195,5239.71
+2026-05-27,North America,Textiles,208,322.31
+2026-05-27,North America,Chemicals,197,1260.91
+2026-05-27,North America,Industrial Machinery,218,5077.64
+2026-05-27,Europe,Industrial Machinery,201,4743.52
+2026-05-27,Asia Pacific,Electronics,199,741.97
+2026-05-27,Asia Pacific,Textiles,198,332.0
+2026-05-27,Latin America,Electronics,208,802.9
+2026-05-27,Latin America,Textiles,209,341.31
+2026-05-27,Middle East,Agricultural Produce,202,142.87
+2026-05-28,North America,Agricultural Produce,199,135.26
+2026-05-28,Europe,Industrial Machinery,219,4739.15
+2026-05-28,Asia Pacific,Industrial Machinery,201,5077.41
+2026-05-28,Asia Pacific,Textiles,205,336.85
+2026-05-28,Latin America,Chemicals,210,1287.02
+2026-05-28,Latin America,Electronics,190,848.56
+2026-05-28,Latin America,Agricultural Produce,212,141.41
+2026-05-28,Middle East,Textiles,214,349.0
+2026-05-29,North America,Chemicals,217,1217.65
+2026-05-29,North America,Textiles,195,341.62
+2026-05-29,North America,Agricultural Produce,217,149.55
+2026-05-29,Europe,Textiles,215,374.47
+2026-05-29,Asia Pacific,Electronics,212,859.37
+2026-05-29,Latin America,Chemicals,203,1265.39
+2026-05-29,Latin America,Textiles,201,354.5
+2026-05-29,Latin America,Industrial Machinery,212,4825.66
+2026-05-29,Middle East,Chemicals,210,1232.41
+2026-05-30,North America,Chemicals,167,1251.28
+2026-05-30,North America,Textiles,148,378.46
+2026-05-30,North America,Agricultural Produce,149,164.21
+2026-05-30,Europe,Agricultural Produce,153,159.42
+2026-05-30,Europe,Industrial Machinery,168,5259.69
+2026-05-30,Europe,Electronics,146,862.66
+2026-05-30,Asia Pacific,Chemicals,145,1146.48
+2026-05-30,Latin America,Industrial Machinery,144,5159.85
+2026-05-30,Middle East,Electronics,149,818.26
+2026-05-30,Middle East,Textiles,161,359.54
+2026-05-31,North America,Electronics,168,732.62
+2026-05-31,North America,Chemicals,146,1188.06
+2026-05-31,Europe,Textiles,148,335.62
+2026-05-31,Europe,Agricultural Produce,171,153.4
+2026-05-31,Europe,Chemicals,153,1261.81
+2026-05-31,Asia Pacific,Textiles,167,326.92
+2026-05-31,Latin America,Textiles,144,339.28
+2026-05-31,Middle East,Electronics,149,811.65
+2026-05-31,Middle East,Industrial Machinery,161,5046.44
+2026-06-01,North America,Industrial Machinery,209,5182.7
+2026-06-01,North America,Electronics,199,788.6
+2026-06-01,North America,Textiles,218,339.31
+2026-06-01,Europe,Textiles,212,341.01
+2026-06-01,Asia Pacific,Chemicals,195,1084.45
+2026-06-01,Asia Pacific,Industrial Machinery,222,4864.17
+2026-06-01,Asia Pacific,Agricultural Produce,215,145.71
+2026-06-01,Latin America,Industrial Machinery,204,4540.39
+2026-06-01,Middle East,Industrial Machinery,206,4978.06
+2026-06-01,Middle East,Chemicals,214,1295.27
+2026-06-01,Middle East,Agricultural Produce,221,151.35
+2026-06-02,North America,Industrial Machinery,207,4703.82
+2026-06-02,Europe,Industrial Machinery,203,4995.24
+2026-06-02,Europe,Textiles,210,334.92
+2026-06-02,Asia Pacific,Chemicals,217,1319.33
+2026-06-02,Asia Pacific,Industrial Machinery,213,4526.67
+2026-06-02,Latin America,Electronics,216,870.38
+2026-06-02,Middle East,Industrial Machinery,211,5409.62
+2026-06-02,Middle East,Chemicals,215,1291.45
+2026-06-02,Middle East,Textiles,208,357.35
+2026-06-03,North America,Electronics,219,825.21
+2026-06-03,North America,Industrial Machinery,212,4685.64
+2026-06-03,Europe,Agricultural Produce,199,156.55
+2026-06-03,Europe,Electronics,204,777.31
+2026-06-03,Asia Pacific,Textiles,221,369.8
+2026-06-03,Asia Pacific,Electronics,221,807.35
+2026-06-03,Latin America,Electronics,219,858.65
+2026-06-03,Latin America,Agricultural Produce,220,155.07
+2026-06-03,Latin America,Chemicals,199,1216.97
+2026-06-03,Middle East,Industrial Machinery,205,4820.74
+2026-06-04,North America,Textiles,217,352.35
+2026-06-04,North America,Chemicals,213,1269.58
+2026-06-04,North America,Industrial Machinery,219,4958.01
+2026-06-04,Europe,Electronics,218,726.29
+2026-06-04,Europe,Textiles,220,332.54
+2026-06-04,Europe,Agricultural Produce,202,146.68
+2026-06-04,Asia Pacific,Industrial Machinery,213,5349.42
+2026-06-04,Latin America,Agricultural Produce,221,148.95
+2026-06-04,Middle East,Agricultural Produce,199,164.21
+2026-06-04,Middle East,Textiles,222,356.46
+2026-06-04,Middle East,Chemicals,201,1107.21
+2026-06-05,North America,Agricultural Produce,196,153.9
+2026-06-05,Europe,Chemicals,198,1189.43
+2026-06-05,Asia Pacific,Industrial Machinery,199,4761.19
+2026-06-05,Asia Pacific,Textiles,206,376.21
+2026-06-05,Latin America,Textiles,205,369.4
+2026-06-05,Middle East,Textiles,206,342.12
+2026-06-05,Middle East,Industrial Machinery,214,5278.87
+2026-06-05,Middle East,Agricultural Produce,201,142.99
