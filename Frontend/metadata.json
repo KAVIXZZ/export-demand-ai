@@ -1,0 +1,6 @@
+{
+  "name": "Stitch AI",
+  "description": "AI-Driven Export Demand Forecasting & Supply Chain Risk Intelligence System",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
